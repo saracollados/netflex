@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AÑADIR DESCRIPCION">
+    <title>Contacto - Netflex</title>
+    <link href="css/header.css" rel="stylesheet"/>
+    <link href="css/forms.css" rel="stylesheet"/>
+    <link href="img/netflex-icono.svg" rel="icon"/>
+    <script src="js/jquery-3.6.0.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/script.js" type="module"></script>
+</head>
+<body>
+    <h1>Contacto - Netflex</h1>
+    <header>
+        <div class="icon"></div>
+        <button id="burger" class="hamburger hamburger--squeeze" type="button">
+            <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+            </span>
+        </button>
+    </header>
+    <nav id="menu" class="menu">
+        <ul>
+            <li><a href="films.html">Películas y series</a></li>
+            <li><a href="books.html">Libros</a></li>
+            <li><a href="contact.html">Contacta con nosotros</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div id="menu-bg"></div>
+        <h2>Queremos escucharte</h2>
+        <p>Ponte en contacto con nuestros expertos a través del formulario o cualquiera de los medios que aparecen debajo.</p>
+        <form action="" method="post" enctype="" autocomplete="off">
+            <section>
+                <div class="input">
+                    <input type="text" id="nombre" name="nombre" required/>
+                    <label for="nombre">Nombre</label>
+                </div>
+                <div class="input">
+                    <input type="email" id="email" name="email" required />
+                    <label for="email">Email</label>
+                </div>
+            </section>
+
+            <section>
+                <label for="razon">Razón de la solicitud</label>
+                <select name="razon" id="razon">
+                    <option value="-" style="display:none">-</option>
+                    <option value="informacion">Información / Consulta</option>
+                    <option value="sugerencia">Sugerencia</option>
+                    <option value="queja">Queja / Reclamación</option>
+                    <option value="gestion">Gestión</option>
+                </select>
+            </section>
+            <section>
+                <label for="comentario">Comentario</label>
+                <textarea name="comentario" id="comentario"></textarea>
+            </section>
+            <div>
+                <label for="file">Archivos adjuntos</label>
+                <input type="file" id="file" name="file" accept=".png, .jpeg" multiple />
+            </div>
+        </form>
+        <!-- He puesto el botón por fuera del formulario porque al intentar enviarlo, no encuentra el servidor y da error. Así también se puede mostrar el mensaje enviado, aunque el inconveniente es que no se verifica el formulario -->
+        <button id="send-message">Enviar</button>
+        <section id="contact">
+            <div>
+                <div class="contact-icon">
+                    <svg width="24" height="24" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M3 9.5L12 4L21 9.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M19 13V19.4C19 19.7314 18.7314 20 18.4 20H5.6C5.26863 20 5 19.7314 5 19.4V13" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <p class="contact-title">Nuestra oficina</p>
+                <p>C/ Paseo Castellana 89, 1 Planta</p>
+                <p> 28046, Madrid</p>
+                <a class="ver_mapa">Ver mapa</a>
+            </div>
+            <div>
+                <div class="contact-icon">
+                    <svg width="24" height="24" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M18.1182 14.702L14 15.5C11.2183 14.1038 9.5 12.5 8.5 10L9.26995 5.8699L7.81452 2L4.0636 2C2.93605 2 2.04814 2.93178 2.21654 4.04668C2.63695 6.83 3.87653 11.8765 7.5 15.5C11.3052 19.3052 16.7857 20.9564 19.802 21.6127C20.9668 21.8662 22 20.9575 22 19.7655L22 16.1812L18.1182 14.702Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <p class="contact-title">Teléfono</p>
+                <p>917684678</p>
+            </div>
+            <div>
+                <div class="contact-icon">
+                    <svg width="24" height="24" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7 9L12 12.5L17 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 17V7C2 5.89543 2.89543 5 4 5H20C21.1046 5 22 5.89543 22 7V17C22 18.1046 21.1046 19 20 19H4C2.89543 19 2 18.1046 2 17Z" stroke="currentColor" stroke-width="1.5"/>
+                    </svg>
+                </div>
+                <p class="contact-title">e-mail</p>
+                <p>hello@netflex.com</p>
+            </div>
+        </section>
+        <section class="map-lightbox">
+            <div class="cont-map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.1584952021894!2d-3.6941688854641503!3d40.4496288615635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228e3450159a7%3A0x24118b8dac65a799!2sP.%C2%BA%20de%20la%20Castellana%2C%2089%2C%2028046%20Madrid!5e0!3m2!1ses!2ses!4v1649579961373!5m2!1ses!2ses" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <button id="close-map" class="close" type="button"></button>
+            </div>
+        </section>
+'       <section id='message-lightbox'>
+            <div class='dark-bg'></div>
+            <div class='cont-message'>
+                <p class="p-gracias">Gracias por enviar tu mensaje</p>
+                <div class="message-options">
+                    <p>¿Qué quieres hacer ahora?</p>
+                    <div class="options">
+                        <button class="opt-message"><a href="films.html">Ver películas y series</a></button>
+                        <button class="opt-message"><a href="books.html">Ver libros</a></button>
+                        <button class="opt-message"><a href="contact.html">Enviar otro mensaje</a></button>
+                    </div>
+                </div>
+            </div>
+        </section>'
+    </main>
+</body>
+</html>

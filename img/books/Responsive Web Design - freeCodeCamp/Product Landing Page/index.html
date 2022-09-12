@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Langing Page</title>
+    <link href="css/styles.css" rel="stylesheet"/>
+    <script src="js/script.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+</head>
+<body>
+    <header id="header">
+        <!-- Brand Logo -->
+        <div class="nav-brand">
+            <a href="">
+                <img id="header-img" src="img/tesla-logo.png" alt="Tesla">
+            </a>
+        </div>
+        <button id="menu-btn" type="button" onclick="toggleMenu()">
+            Menu
+        </button>
+        <nav id="nav-bar" class="menu">
+            <header>
+                <button id="close-btn" type="button" onclick="toggleMenu()">
+                    <i class="bi bi-x"></i>
+                </button>
+            </header>
+            <ul>
+                <li><a class="nav-link" href="#interior" onclick="toggleMenu()">Interior</a></li>
+                <li><a class="nav-link" href="#exterior" onclick="toggleMenu()">Exterior</a></li>
+                <li><a class="nav-link" href="#range" onclick="toggleMenu()">Range</a></li>
+                <li><a class="nav-link" href="#specs" onclick="toggleMenu()">Specs</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div id="blurbg" class="blur-bg" onclick="toggleMenu()"></div>
+        <section id="hero">
+            <h1>Model S</h1>
+            <div class="gradient-bg">
+                <section id="sum-specs">
+                    <div class="sum-spec">
+                        <p class="spec-number">396<span>mi</span></p>
+                        <p class="spec-title">Range (est.)</p>
+                    </div>
+                    <div class="sum-spec">
+                        <p class="spec-number">1.99<span>s</span></p>
+                        <p class="spec-title">0-60 mph</p>
+                    </div>
+                    <div class="sum-spec">
+                        <p class="spec-number">200<span>mph</span></p>
+                        <p class="spec-title">Top speed</p>
+                    </div>
+                </section>
+            </div>
+        </section>
+        <div class="transtion"></div>
+        <section id="interior">
+            <header>
+                <h2>Interior of the Future</h2>
+            </header>
+            <section id="interior-specs">
+                <div class="interior-spec">
+                    <div class="interior-img" id="connected"></div>
+                    <div class="interior-text">
+                        <p class="int-title">Stay Connected</p>
+                        <p class="int-description">Instantly connect with multi-device Bluetooth, or fast charge devices with wireless and 36-watt USB-C charging.</p>
+                    </div>
+                </div>
+                <div class="interior-spec">
+                    <div class="interior-img" id="sound"></div>
+                    <div class="interior-text">
+                        <p class="int-title">Immersive Sound</p>
+                        <p class="int-description">A 22-speaker, 960-watt audio system with Active Road Noise Reduction offers immersive listening and studio-grade sound quality.</p>
+                    </div>
+                </div>
+                <div class="interior-spec">
+                    <div class="interior-img" id="room"></div>
+                    <div class="interior-text">
+                        <p class="int-title">Room for Everything</p>
+                        <p class="int-description">With front and rear trunks and fold-flat seats you can fit your bike without taking the wheel off—and your luggage too.</p>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <section id="exterior">
+            <div id="ext-header-img"></div>
+            <header>
+                <h2><span>Exterior</span>Designed for Efficiency</h2>
+                <p class="ext-caption">
+                    With a drag coefficient of just .208 Cd, the lowest on the planet, Model S is built for speed, endurance and range. Improved aerodynamics and a wider chassis offer more responsive performance so you can take corners quicker and with more confidence.
+                </p>
+            </header>
+            <section id="exterior-specs">
+                <div class="exterior-spec">
+                    <div class="exterior-img" id="ralentless"></div>
+                    <div class="exterior-text">
+                        <p class="ext-title">Relentless Performance</p>
+                        <p class="ext-description">Staggered, performance wheels and tires keep the car planted and help transfer maximum power down to the road.</p>
+                    </div>
+                </div>
+                <div class="exterior-spec">
+                    <div class="exterior-img" id="aerodynamics"></div>
+                    <div class="exterior-text">
+                        <p class="ext-title">Optimized Aerodynamics</p>
+                        <p class="ext-description">Attention to detail on all exterior surfaces makes Model S the most aerodynamic production car on Earth.</p>
+                    </div>
+                </div>
+                <div class="exterior-spec">
+                    <div class="exterior-img" id="styling"></div>
+                    <div class="exterior-text">
+                        <p class="ext-title">Refined Styling</p>
+                        <p class="ext-description">An iconic silhouette meets refreshed, elegant proportions.</p>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <section id="range">
+            <div id="range-header-video">
+                <video id="video" preload="auto" playsinline="" data-autoplay-desktop="true" data-autoplay-portrait="true" data-autoplay-mobile="true" data-play-on-hover="false" muted="" loop="" controls="" data-src-desktop="https://www.tesla.com/sites/default/files/videos/Plaid-Range-Web-Desktop-8mb.mp4" data-src-portrait="https://www.tesla.com/sites/default/files/videos/Plaid-Range-Web-Desktop-8mb.mp4" data-src-mobile="https://tesla-cdn.thron.com/delivery/public/video/tesla/b0027831-1bb2-463c-bacd-905389c33a9a/bvlatuR/WEBHD/MS-Range-Hero-Mobile" data-src="https://www.tesla.com/sites/default/files/videos/Plaid-Range-Web-Desktop-8mb.mp4" data-object-fit="true" src="https://www.tesla.com/sites/default/files/videos/Plaid-Range-Web-Desktop-8mb.mp4" autoplay="" data-loaded="true"></video>
+                <section id="range-sum-specs">
+                    <div class="range-sum-spec">
+                        <p class="range-spec-number">405<span>mi</span></p>
+                        <p class="range-spec-title">Range (est.)</p>
+                    </div>
+                    <div class="range-sum-spec">
+                        <p class="range-spec-number">15<span>min</span></p>
+                        <p class="range-spec-title">Recharge up to 200 mi</p>
+                    </div>
+                    <div class="range-sum-spec">
+                        <p class="range-spec-number">30,000<span>+</span></p>
+                        <p class="range-spec-title">Global Superchargers</p>
+                    </div>
+                </section>
+                <section id="range-sum-specs-desktop">
+                    <div class="range-sum-spec">
+                        <p class="range-spec-number">405<span>mi</span></p>
+                        <p class="range-spec-title">Go anywhere with up to 405 miles of estimated range on a single charge</p>
+                    </div>
+                    <div class="range-sum-spec">
+                        <p class="range-spec-number">15<span>min</span></p>
+                        <p class="range-spec-title">Recharge up to 200 miles in 15 minutes at Supercharger locations</p>
+                    </div>
+                    <div class="range-sum-spec">
+                        <p class="range-spec-number">30,000<span>+</span></p>
+                        <p class="range-spec-title">Superchargers placed along popular routes</p>
+                    </div>
+                </section>
+            </div>
+            <header>
+                <h2><span>Range</span>Go Anywhere</h2>
+                <p class="range-caption">
+                    Travel farther on a single charge than any other electric vehicle—and keep going with access to 30,000+ Superchargers globally. By combining up to 405 miles of estimated range with Tesla fast charging technology, you’ll spend less time charging and even more time on the road.
+                </p>
+            </header>
+        </section>
+        <section id="specs">
+            <div id="specs-header-img"></div>
+            <div class="specs-info">
+                <header>
+                    <h2>Model S<span>Specs</span></h2>
+                </header>
+                <section>
+                    <div class="model-btn">
+                        <label class="radio-label">
+                            <input type="radio" id="model-s-plaid-btn" name="model" value="model-s-plaid" checked onclick="selectModel()">
+                            <span >Model S Plaid</span>
+                        </label>
+                        <label class="radio-label">
+                            <input type="radio" id="model-s-btn" name="model" value="model-s" onclick="selectModel()">
+                            <span>Model S</span>
+                        </label>
+                    </div>
+                    <div class="models-specs-table">
+                        <div class="model-specs" id="model-s-plaid">
+                            <div class="model-specs-panel">
+                                <ul>
+                                    <li>
+                                        <p class="model-spec-title">Range</p>
+                                        <p class="model-spec-number">396 mi (est.)</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">1/4 Mile</p>
+                                        <p class="model-spec-number">9.23@155 mph trap speed</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Peak Power</p>
+                                        <p class="model-spec-number">1,020 hp</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Wheels</p>
+                                        <p class="model-spec-number">19" or 21"</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Cargo</p>
+                                        <p class="model-spec-number">793 litres</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Weight</p>
+                                        <p class="model-spec-number">2,162 kg</p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="model-specs-panel">
+                                <ul>
+                                    <li>
+                                        <p class="model-spec-title">Acceleration</p>
+                                        <p class="model-spec-number">1.99 s 0-60 mph*</p>
+                                        <p class="model-spec-number"><i>*with rollout subtracted</i></p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Top Speed</p>
+                                        <p class="model-spec-number">200 mph*</p>
+                                        <p class="model-spec-number"><i>*when equipped with paid hardware upgrades</i></p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Drag Coefficient</p>
+                                        <p class="model-spec-number">0.208 Cd</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Powertrain</p>
+                                        <p class="model-spec-number">Tri Motor</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Supercharging Max</p>
+                                        <p class="model-spec-number">250 kW</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="model-specs" id="model-s">
+                            <div class="model-specs-panel">
+                                <ul>
+                                    <li>
+                                        <p class="model-spec-title">Range</p>
+                                        <p class="model-spec-number">405 mi (est.)</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Peak Power</p>
+                                        <p class="model-spec-number">670 hp</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Wheels</p>
+                                        <p class="model-spec-number">19" or 21"</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Cargo</p>
+                                        <p class="model-spec-number">793 litres</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Acceleration</p>
+                                        <p class="model-spec-number">3.1 s 0-60 mph</p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="model-specs-panel">
+                                <ul>
+                                    <li>
+                                        <p class="model-spec-title">Top Speed</p>
+                                        <p class="model-spec-number">155 mph</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Drag Coefficient</p>
+                                        <p class="model-spec-number">0.208 Cd</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Weight</p>
+                                        <p class="model-spec-number">2,069 kg</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Powertrain</p>
+                                        <p class="model-spec-number">Dual Motor</p>
+                                    </li>
+                                    <li>
+                                        <p class="model-spec-title">Supercharging Max</p>
+                                        <p class="model-spec-number">250 kW</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+        <section id="contact">
+            <header>
+                <h2>Stay connected</h2>
+                <p class="contact-caption">Be the first to receive the latest Tesla news, events and product updates.</p>
+            </header>
+            <section id="contact-form">
+                <form  id="form" action="https://www.freecodecamp.com/email-submit" autocomplete="off">
+                    <div>
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email" placeholder="Your email" required>
+                    </div>
+                    <input type="submit" id="submit" value="Suscribe" class="submit">
+                </form>
+            </section>
+        </section>
+    </main>
+    <footer>
+        <p>❮❯ by <a href="https://codepen.io/saracollados" target="_blank">Sara Collados</a></p>
+    </footer>
+</body>
+</html>

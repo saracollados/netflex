@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AÑADIR DESCRIPCION">
+    <title>Netflex</title>
+    <link href="css/header.css" rel="stylesheet"/>
+    <link href="css/forms.css" rel="stylesheet"/>
+    <link href="img/netflex-icono.svg" rel="icon"/>
+    <script src="js/jquery-3.6.0.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/script.js" type="module"></script>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>Netflex</h1>
+        <section id="cover">
+            <div class="logo"></div>
+        </section>
+        <section id="login">
+            <header>
+                <div class="icon"></div>
+            </header>
+            <form action="" method="post" autocomplete="off" id="login-form">
+                <input type="email" id="email" name="email" placeholder="Correo electrónico"/>
+                <input type="password" id="password" name="password" placeholder="Contraseña"/>
+                <label class="container-checkbox">Recuérdame
+                    <input type="checkbox">
+                    <span class="custom-cb"></span>
+                </label>
+                <a href="films.html">Iniciar sesión</a>
+                <p>¿No tienes cuenta? <a href="signin.html" id="suscribete">Suscríbete ahora</a></p>
+            </form>
+        </section>
+        <section id="grid-bg">
+            <div class="grid"></div>
+        </section>
+    </div>
+</body>
+</html>

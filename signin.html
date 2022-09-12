@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AÑADIR DESCRIPCION">
+    <title>Crear cuenta - Netflex</title>
+    <link href="css/header.css" rel="stylesheet"/>
+    <link href="css/forms.css" rel="stylesheet"/>
+    <link href="img/netflex-icono.svg" rel="icon"/>
+    <script src="js/jquery-3.6.0.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/script.js" type="module"></script>
+</head>
+<body>
+    <h1>Crear cuenta - Netflex</h1>
+    <header>
+        <div class="icon"></div>
+    </header>
+    <main>
+        <h2>Crear cuenta</h2>
+        <form action="" method="post" enctype="" autocomplete="off">
+            <div>
+                <div class="input">
+                    <input type="email" id="email" name="email" required/>
+                    <label for="email">Email</label>
+                </div>
+                <div class="input">
+                    <input type="password" id="password" name="password" required/>
+                    <label for="password">Contraseña</label>
+                </div>
+            </div>
+
+            <h3>Selecciona el plan ideal para ti</h3>
+            <div class="plan">
+                <table>
+                    <tr>
+                        <th>
+                            <label class="container-checkbox-2">
+                                <input type="radio" id="basic" name="plan" value="basic">
+                                <span class="custom-cb-2">Básico</span>
+                                <div class="arrow"></div>
+                            </label>
+                        </th>
+                        <th>
+                            <label class="container-checkbox-2">
+                                <input type="radio" id="standard" name="plan" value="standard">
+                                <span class="custom-cb-2">Estándar</span>
+                                <div class="arrow"></div>
+                            </label>
+                        </th>
+                        <th>
+                            <label class="container-checkbox-2">
+                                <input type="radio" id="premium" name="plan" value="premium">
+                                <span class="custom-cb-2">Premium</span>
+                                <div class="arrow"></div>
+                            </label>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Precio al mes</td>
+                    </tr>
+                    <tr>
+                        <td>7,99 €</td>
+                        <td>12,99 €</td>
+                        <td>17,99 €</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Calidad de vídeo</td>
+                    </tr>
+                    <tr>
+                        <td>Buena</td>
+                        <td>Muy buena</td>
+                        <td>Excepcional</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Resolución</td>
+                    </tr>
+                    <tr>
+                        <td>480p</td>
+                        <td>1080p</td>
+                        <td>4K + HDR</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Multidispositivo: TV, ordenador, teléfono móvil y tableta</td>
+                    </tr>
+                    <tr id="check">
+                        <td>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2" viewBox="0 0 16 16">
+                                <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+                            </svg>
+                        </td>
+                        <td>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2" viewBox="0 0 16 16">
+                                <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+                            </svg>
+                        </td>
+                        <td>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2" viewBox="0 0 16 16">
+                                <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+                            </svg>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <h3>Configura tu tarjeta</h3>
+            <div id="card">
+                <div>
+                    <div>
+                        <label for="cardName">Nombre completo</label>
+                        <input type="text" id="cardName" name="cardName" maxlength="30"/>
+                    </div>
+                    <div>
+                        <label for="cardNumber">Número de tarjeta</label>
+                        <input type="text" id="cardNumber" name="cardNumber"/>
+                    </div>
+        
+                    <div>
+                        <label for="cardDate">Fecha de vencimiento</label>
+                        <input type="text" id="cardDate" name="cardDate"/>
+                    </div>
+                    <div>
+                        <label for="cardCVV">Código de seguridad (CVV)</label>
+                        <input type="text" id="cardCVV" name="cardCVV"/>
+                    </div>
+                </div>
+    
+                <div class="cont-card">
+                    <div class="card part">
+                        <div id="showCardName">John Doe</div>
+                        <div id="showCardNumber">xxxx xxxx xxxx xxxx</div>
+                        <div id="showCardDate">04/22</div>
+                        <div id="showCardCVV">987</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ofertas_privacidad">
+                <label class="container-checkbox">Quiero recibir ofertas de Netflex
+                    <input type="checkbox">
+                    <span class="custom-cb"></span>
+                </label>
+                <label class="container-checkbox">Acepto la política de privacidad de Netflex
+                    <input type="checkbox">
+                    <span class="custom-cb"></span>
+                </label>
+            </div>
+            <button><a href="films.html">Iniciar suscripción</a></button>
+        </form>
+    </main>
+</body>
+</html>

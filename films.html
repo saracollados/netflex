@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AÑADIR DESCRIPCION">
+    <title>Películas y series - Netflex</title>
+    <link href="css/header.css" rel="stylesheet"/>
+    <link href="css/main.css" rel="stylesheet"/>
+    <link href="img/netflex-icono.svg" rel="icon"/>
+    <script src="js/jquery-3.6.0.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/script.js" type="module"></script>
+</head>
+<body>
+    <h1>Series y películas - Netflex</h1>
+    <header>
+        <div class="icon"></div>
+        <button id="burger" class="hamburger hamburger--squeeze" type="button">
+            <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+            </span>
+        </button>
+    </header>
+    <nav id="menu" class="menu">
+        <ul>
+            <li><a href="films.html">Películas y series</a></li>
+            <li><a href="books.html">Libros</a></li>
+            <li><a href="contact.html">Contacta con nosotros</a></li>
+        </ul>
+    </nav>
+    <main class="film-file">
+        <div id="menu-bg"></div>
+        <section id="main-cover" class="film-cover">
+            <div class="info">
+                <p class="title">La Casa de Papel</p>
+                <p class="synopsis">Sus vidas y millones de euros están en juego. Nueve ladrones intentan llevar a cabo el mayor robo de la historia.</p>
+                <button class="mas_info">+ info</button>
+            </div>
+        </section>
+
+        <section id="top" class="row films-top">
+            <div class="title-container">
+                <h2 class="row-title">Las 10 más populares</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container">
+                    <div class="grid-row row-top10"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="myFilmList" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Mi Lista</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container">
+                    <div class="grid-row myFilmListRow"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="newRelease" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Estrenados hace menos de un año</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="trendNow" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Tendencias ahora</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="newThisWeek" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Estrenos</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="seriePrize" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Series TV premiadas</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="spanish" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Películas y series españolas</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+
+        <section id="basedBook" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Series basadas en libros</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="documentary" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Documentales</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="anime" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Animes</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="infantil" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Infantil</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left film-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container films">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right film-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

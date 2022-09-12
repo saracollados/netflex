@@ -1,0 +1,875 @@
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
+:root {
+    --tech: "Share Tech Mono", monospace;
+}
+
+* {
+    font-family: 'League Spartan', sans-serif;
+}
+
+main {
+    padding: 20px;
+    padding-top: 30px;
+}
+
+h2 {
+    font-size: 2.2rem;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.8rem;
+    text-align: center;
+    margin: 50px 0 15px;
+}
+
+p {
+    font-size: 1.4rem;
+    text-align: left;
+}
+
+p a {
+    color: var(--main-blue);
+    font-weight: bold;
+}
+
+main > p {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* ESTILOS GENERALES DE FORMULARIO */
+form {
+    width: calc(100% - 40px);
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: 40px auto 0;
+    margin-top: 40px;
+}
+
+label {
+    font-size: 1.6rem;
+    margin-bottom: 5px;
+}
+
+input, 
+select, 
+textarea, 
+form > a {
+    display: block;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+input {
+    border-radius: 0px;
+    border: none;
+    height: 28px;
+    border-bottom: 1px solid var(--white);
+    background-color: transparent;
+    margin-bottom: 40px;
+    color: var(--white);
+}
+
+select, 
+textarea {
+    height: 35px;
+    color: var(--white);
+    background-color: #212121;
+    border: 1px solid #4b4b4b;
+    border-radius: 3px;
+    margin-bottom: 40px;
+    padding-left: 10px;
+}
+
+textarea {
+    min-width: 100%;
+    max-width: 100%;
+    height: 70px;
+    min-height: 70px;
+    max-height: 130px;
+    overflow: auto;
+    padding: 10px;
+}
+
+input[type="password"] {
+    margin-bottom: 10px;
+}
+
+input[type="file"] {
+    height: 43px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    border: none;
+}
+
+input:focus {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid var(--main-blue);
+}
+
+select:focus, 
+textarea:focus {
+    outline: none;
+}
+
+form > a, 
+button:not(#burger, .opt-message, #close-map) {
+    background-color: var(--main-blue);
+    color: var(--white);
+    margin: 0 auto 20px;
+    width: 50%;
+    border: none;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+button:not(#burger, .opt-message, #close-map) {
+    height: 40px;
+    padding: 0px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+form > a:hover, 
+button:not(#close-map, #burger):hover {
+    background-color: #1ad4ec;
+}
+
+/* ESTILOS DE FORMULARIO ESPECÍFICOS PARA EL LOGIN */
+#login-form {
+    max-width: 500px;
+    margin: calc(50vh - 115px) auto 0;
+}
+
+#login {
+    width: 100vw;
+    height: 100vh;
+    color: var(--white);
+}
+
+#login-form input,  
+#login-form > a {
+    border-radius: 2px;
+    height: 48px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+}
+
+#login-form > a {
+    padding-top: 13px;
+}
+
+#login-form input::placeholder {
+    font-size: 1.4rem;
+    position: relative;
+    top: 1px;
+}
+
+#login-form input {
+    border: 1px solid #8C8C8C;
+    background-color: #fff;
+    color: var(--black);
+}
+
+#login-form input:focus,
+select:focus,
+textarea:focus {
+    outline: none;
+    border: 2px solid var(--main-blue);
+}
+/* Estilos botón contact */
+#send-message {
+    display: block;
+    max-width: 200px;
+}
+
+/* Que al hacer focus la label se mueva hacia arriba */
+.input {
+    position: relative;
+}
+
+.input label {
+    position: absolute;
+    left: 5px;
+    bottom: 0px;
+    pointer-events: none;
+    transition: 0.3s;
+}
+
+.input input:focus + label,
+.input input:valid ~ label {
+    bottom: 20px;
+    left: 2px;
+    font-size: 1.4rem;
+}
+
+/* CONTACT */
+/* BARRA SCROLL COMENTARIO DE CONTACTO*/
+/*Le quitamos su apariencia propia del sistema operativo*/
+#comentario::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+/*Le damos un color al fondo*/
+#comentario::-webkit-scrollbar-track {
+    border-radius: 20px;
+}
+
+/*Le damos un color y le redondeamos los bordes*/
+#comentario::-webkit-scrollbar-thumb {
+    background-color: #505050;
+    border-radius: 20px;
+}
+
+/*Las hacemos más finas, a la horizontal de damos altura 0*/
+#comentario::-webkit-scrollbar:vertical {
+    width: 5px;
+}
+#comentario::-webkit-scrollbar:horizontal {
+    height: 0px;
+}
+/* FIN BARRA SCROLL COMENTARIO DE CONTACTO*/
+
+/* SECCION CONTACTO */
+#contact {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#contact div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-icon {
+    width: 35px;
+    height: 35px;   
+    margin-top: 25px; 
+    margin-bottom: 5px;
+}
+
+.contact-icon svg {
+    width: 100%;
+    height: 100%;
+    color: var(--main-blue);
+}
+
+.contact-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+#contact div p {
+    margin-bottom: 3px;
+    font-size: 1.3rem;
+}
+
+.ver_mapa {
+    color: var(--main-blue);
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+#map {
+    width: calc(100vw - 50px);
+    min-width: 300px;
+    height: calc((100vw - 50px)*0.78);
+    min-height: 234px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+/* MAPA CONTACT*/
+.map-lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #14141480;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    z-index: -1;
+    transition: all 0.3s ease-in; 
+}
+
+.cont-map {
+    width: calc( 100vw - 80px);
+    min-width: 300px;
+    height: calc(100vw - 80px);
+    min-height: 300px;
+    overflow: hidden;
+    position: absolute;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--black);
+    box-shadow: 0px 0px 10px 6px #050505;
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+
+.show-map {
+    opacity: 1;
+    z-index: 700;
+    transition: opacity 0.3s ease-in ;
+}
+
+/* CLOSE MAP */
+.close {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    width: 26px;
+    height: 26px;
+    opacity: 0.7;
+    border: none;
+    border-radius: 50%;
+    background-color: #3f3f3f;
+    cursor: pointer;
+    z-index: 800;
+}
+
+.close:hover {
+    opacity: 1;
+}
+
+.close:before, .close:after {
+    position: absolute;
+    left: 12px;
+    top: 6px;
+    content: ' ';
+    height: 14px;
+    width: 2px;
+    border-radius: 2px;
+    background-color: var(--white);
+}
+
+.close:before {
+    transform: rotate(45deg);
+}
+
+.close:after {
+    transform: rotate(-45deg);
+}
+/* FIN CLOSE MAP */
+/* FIN MAPA CONTACT */
+/* FIN SECCION CONTACTO */
+
+/* MENSAJE GRACIAS*/
+#message-lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #14141480;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    z-index: -1;
+}
+
+#message-lightbox.show-message {
+    visibility: visible;
+    z-index: 1;
+}
+
+.dark-bg {
+    background: transparent;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.cont-message {
+    width: calc(100vw - 50px);
+    min-width: 300px;
+    height: calc(100vw - 50px);
+    min-height: 300px;
+    border-radius: 5px;
+    margin: auto;
+    padding: 30px 20px;
+    position: absolute;
+    background-color: var(--black);
+    box-shadow: 0px 0px 10px 6px #050505;
+    border: 1px solid #7a7a7a4d;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.p-gracias {
+    font-size: 2.2rem;
+    text-align: center;
+}
+
+.options {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.message-options {
+    width: 100%;
+}
+
+.message-options p {
+    font-size: 1.8rem;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.opt-message {
+    background-color: transparent;
+    border: 1px solid var(--main-blue);
+    border-radius: 3px;
+    color: var(--white);
+    padding: 13px;
+    width: 65%;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.opt-message:hover {
+    background-color: var(--main-blue);
+    transition: background-color ease 0.6s;
+}
+/* FIN MENSAJE GRACIAS*/
+/* FIN CONTACT */
+
+/* PLAN SIGNIN*/
+/* TABLE SIGNIN */
+table {
+    border-spacing: 10px;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    font-size: 1.7rem;
+    color: var(--white);
+}
+
+td {
+    width: 33%;
+    line-height: 30px;
+}
+
+tr:nth-child(2n+3) {
+    border-bottom: 1px solid #b1bac4;
+}
+
+#check {
+    border: none;
+}
+
+#check svg {
+    padding-top: 5px;
+    height: 35px;
+    width: 30px;
+}
+
+th {
+    line-height: 70px;
+}
+
+td[colspan] {
+    line-height: 20px;
+    font-size: 1.3rem;
+    padding-top: 5px;
+    color: var(--white);
+}
+
+/* RADIOBUTTONS SIGNIN */
+/* Personalizamos la label (container) */
+.container-checkbox-2 {
+    position: relative;
+    padding-left: 25px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    font-size: 1.6rem;
+    /* Resetea los estilos predefinidos al estar seleccionado */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+  
+/* Ocultar el radiobutton predefinido del navegador */
+input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    height: 0;
+    width: 0;
+    cursor: pointer;
+}
+  
+/* Crear un radiobutton personalizado */
+.custom-cb-2 {
+    position: absolute;
+    top: -20px;
+    left: -35px;
+    height: 50px;
+    width: 90px;
+    border-radius: 2px;
+    padding-top: 4px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.arrow {
+    background-color: var(--main-blue);
+    visibility: hidden;
+    width: 15px;
+    height: 15px;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 22px;
+    left: 5px;
+}
+  
+/* Cuando está checked, cambia el color de fondo */
+.container-checkbox-2 input:checked ~ .custom-cb-2 {
+    background-color: var(--main-blue);
+    color: var(--white);
+    font-weight: bold;
+}
+.container-checkbox-2 input:checked ~ .arrow{
+    visibility: visible;
+}
+/* FIN PLAN SIGNIN*/
+
+/* OFERTAS Y PRIVACIDAD SIGNIN*/
+.ofertas_privacidad {
+    display: flex;
+    flex-direction: column;
+}
+
+.ofertas_privacidad .container-checkbox:nth-child(1) {
+    margin-bottom: 5px;
+}
+.ofertas_privacidad .container-checkbox:nth-child(2) {
+    margin-top: 5px;
+}
+/* FIN OFERTAS Y PRIVACIDAD ISGNIN*/
+
+/* TARJETA SIGNIN*/
+#card {
+    margin-bottom: 50px;
+}
+
+.cont-card {
+    width: 350px;
+    height: 222px;
+    position: relative;
+    margin: auto;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(225deg, rgba(19,166,223,1) 0%, rgba(25,168,219,1) 6%, rgba(171,109,164,1) 67%, rgba(214,38,141,1) 95%);
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+    filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.6));
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#showCardName, 
+#showCardNumber,
+#showCardDate,
+#showCardCVV {
+    font-family: var(--tech);
+    font-size: 1.6rem;
+    position: absolute;
+}
+
+#showCardNumber {
+    font-size: 2.3rem;
+    letter-spacing: 2.5px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+    top: 45px;
+    left: 30px;
+}
+
+#showCardDate {
+    top: 110px;
+    left: 200px;
+}
+
+#showCardCVV {
+    top: 110px;
+    left: 280px;
+}
+
+#showCardName {
+    text-transform: uppercase;
+    top: 160px;
+    left: 40px;
+}
+/* FIN TARJETA SIGNIN*/
+
+/* CHECKBOX LOGIN y SIGNIN*/
+/* Personalizamos la label (container) */
+.container-checkbox {
+    font-size: 1.4rem;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding-left: 25px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    /* Resetea los estilos predefinidos al estar seleccionado */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+  
+/* Ocultar el checkbox predefinido del navegador */
+input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    height: 0;
+    width: 0;
+    cursor: pointer;
+}
+  
+/* Crear un checkbox personalizado */
+.custom-cb {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    height: 15px;
+    width: 15px;
+    border-radius: 2px;
+    background-color: var(--white);
+}
+  
+/* Cuando está checked, cambia el color de fondo */
+.container-checkbox input:checked ~ .custom-cb {
+    background-color: var(--main-blue);
+}
+  
+/* Crea el icono check (oculto cuando no está seleccionado) */
+.custom-cb:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+  
+/* Muestra el icono check cuando está checked */
+.container-checkbox input:checked ~ .custom-cb:after {
+    display: block;
+}
+  
+/* Da estilos al icono check */
+.container-checkbox .custom-cb:after {
+    left: 5px;
+    top: 1px;
+    width: 5px;
+    height: 10px;
+    border: solid var(--white);
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+#suscribete {
+    color: var(--main-blue);
+}
+/* FIN CHECKBOX */
+
+/* LOGIN PAGE */
+/* Superposición de las section: #cover, #login y #grid-bg dentro de .contenedor */
+.contenedor {
+    position: relative;
+}
+
+#cover {
+    position: absolute;
+    z-index: 3;
+}
+
+#login {
+    position: absolute;
+    z-index: 2;
+}
+
+#grid-bg {
+    position: absolute;
+    z-index: 1;
+}
+
+/* COVER LOGIN */
+#cover {
+    background-color: var(--black);
+    width: 100vw;
+    height: 100vh;
+    animation: fade-out 2s linear 4s forwards;
+}
+
+.logo {
+    background: url(../img/netflex-logo.png) no-repeat center / contain;
+    width: calc(100vw - 80px);
+    max-width: 400px;
+    height: 100vh;
+    margin: auto;
+    animation: 
+        focus-in-expand-fwd 2s linear forwards,
+        fade-out 1s linear 3s forwards;
+}
+
+@keyframes focus-in-expand-fwd {
+    from {
+      transform: scale(0.9);
+      filter: blur(12px);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1);
+      filter: blur(0);
+      opacity: 1;
+    }
+}
+
+@keyframes fade-out {
+    from {
+        filter: blur(0);
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+        z-index: -1;
+    }
+}
+
+@keyframes move-up-bg {
+    from {
+        width: 100vw;
+        height: 100vh;
+    }
+    to {
+        height: 60px;
+    }
+}
+/* FIN PORTADA */
+
+/* GRID */
+.item {
+    border-radius: 1px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 210px);
+    grid-auto-rows: 115px;
+    gap: 5px;
+    transform-style: preserve-3d;
+    transform: rotateX(20deg) rotateY(-30deg) rotateZ(15deg) translate(-300px, -90px);
+    filter: brightness(35%);
+}
+
+#grid-bg {
+    height: 100vh;
+    width: 100vw;
+    background-color: #141414;
+    overflow: hidden;
+}
+/* FIN GRID */
+/* FIN LOGIN */
+
+@media only screen and (min-width: 500px){
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(8, 350px);
+        grid-auto-rows: 200px;
+        transform: rotateX(20deg) rotateY(-30deg) rotateZ(15deg) translate(-470px, -60px);
+    }
+}
+
+@media only screen and (min-width: 600px){
+    #contact {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (min-width: 740px){
+    #login-form input {
+        height: 50px;
+        padding-left: 15px;
+    }
+    
+    input::placeholder {
+        font-size: 1.6rem;
+    }
+
+    form p {
+        font-size: 1.5rem;
+    }
+
+    .container-checkbox {
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 800px){
+    .cont-map {
+        max-width: 340px;
+        max-height: 340px;
+    }
+    .cont-message {
+        max-width: 340px;
+        max-height: 265px;
+    }
+}
+
+
+@media only screen and (min-width: 800px){
+    .cont-map {
+        width: 500px;
+        height: 500px;
+    }
+
+    .cont-message {
+        width: 500px;
+        height: 350px;
+    }
+}

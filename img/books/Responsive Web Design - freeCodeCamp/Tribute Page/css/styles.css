@@ -1,0 +1,112 @@
+/* RESET CSS */
+/* El padding y el border pasen a formar parte del cálculo del ancho de la caja y no lo suman posteriormente. */
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    min-height: 100vh; 
+    scroll-behavior: smooth; 
+    text-rendering: optimizeSpeed; 
+    line-height: 1.5;
+}
+img {
+    max-width: 100%;
+    display: block;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+ul[class], ol[class] {
+    list-style: none;
+}
+/* FIN RESET CSS */
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    text-align: center;
+    color: #333;
+}
+
+main {
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 30px 10px;
+    padding: 15px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h3 {
+    margin: 50px 0;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+  
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+a {
+    color: #477ca7;
+}
+
+a:visited {
+    color: #74638f;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+  
+li {
+    margin: 16px 0;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+@media (max-width: 460px) {
+    h1 {
+      font-size: 3.5rem;
+      line-height: 1.2;
+    }
+
+    main {
+        margin: 0;
+    }
+
+    #img-caption {
+        font-size: 1.4rem;
+    }
+}

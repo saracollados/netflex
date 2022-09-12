@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AÑADIR DESCRIPCION">
+    <title>Libros - Netflex</title>
+    <link href="css/header.css" rel="stylesheet"/>
+    <link href="css/main.css" rel="stylesheet"/>
+    <link href="img/netflex-icono.svg" rel="icon"/>
+    <script src="js/jquery-3.6.0.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/script.js" type="module"></script>
+</head>
+<body>
+    <h1>Libros - Netflex</h1>
+    <header>
+        <div class="icon"></div>
+        <button id="burger" class="hamburger hamburger--squeeze" type="button">
+            <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+            </span>
+        </button>
+    </header>
+    <nav id="menu" class="menu">
+        <div class="menu-bg"></div>
+        <ul>
+            <li><a href="films.html">Películas y series</a></li>
+            <li><a href="books.html">Libros</a></li>
+            <li><a href="contact.html">Contacta con nosotros</a></li>
+        </ul>
+    </nav>
+    <main class="book-file">
+        <div id="menu-bg"></div>
+        <section id="main-cover" class="book-cover">
+            <div>
+                <button class="mas_info">+ info</button>
+            </div>
+            <div>
+                <button class="mas_info">+ info</button>
+            </div>
+            <div>
+                <button class="mas_info">+ info</button>
+            </div>
+        </section>
+
+        <section id="top" class="row books-top">
+            <div class="title-container">
+                <h2 class="row-title">Estrenados hace menos de un año</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container">
+                    <div class="grid-row row-top10"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="myBookList" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Mi Lista</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container">
+                    <div class="grid-row myBookListRow"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="newRelease" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Publicados hace menos de un año</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container books">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="thriller" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Novela negra</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container books">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="spanish" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Españoles</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container books">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="historical" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Novela histórica</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container books">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="scienceFiction" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Ciencia-ficción</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container books">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="manga" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Manga</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container books">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+        <section id="infantil" class="row">
+            <div class="title-container">
+                <h2 class="row-title">Infantil y Juvenil</h2>
+                <div class="page-indicators"></div>
+            </div>
+            <div class="main-container">
+                <button class="slider-left book-slider"><i class="bi bi-chevron-left"></i></button>
+
+                <div class="row-container books">
+                    <div class="grid-row"></div>
+                </div>
+
+                <button class="slider-right book-slider"><i class="bi bi-chevron-right"></i></button>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
