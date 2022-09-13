@@ -5,7 +5,7 @@ $(document).ready(function() {
     $.ajax({
         'async': false,
         'global': false,
-        'url': "../information.json",
+        'url': "https://github.com/saracollados/netflex/blob/main/information.json",
         'dataType': "json",
         'success': function (data) {
             json = data;
@@ -40,7 +40,6 @@ $(document).ready(function() {
     let theme = coversArray[themeIndex];
     let filmIndex = Math.floor(Math.random() * 20) + 1;
     loginGridItems.eq(i).css("background", "url(https://saracollados.github.io/netflex/img/films/" + theme + filmIndex + ".jpg) no-repeat center / cover");
-    //loginGridItems.eq(i).css("background", "url(../img/films/" + theme + filmIndex + ".jpg) no-repeat center / cover");
   }
 
   // ROWS
@@ -98,10 +97,8 @@ $(document).ready(function() {
     for (let i = 0; i < items.length; i++) {
       if (items.eq(i).hasClass("film")) {
         items.eq(i).css("background", "url(https://saracollados.github.io/netflex/img/films/" + rowId + (i + 1) + ".jpg) no-repeat center / cover");
-        //items.eq(i).css("background", "url(../img/films/" + rowId + (i + 1) + ".jpg) no-repeat center / cover");
       } else if (items.eq(i).hasClass("book")) {
         items.eq(i).css("background", "url(https://saracollados.github.io/netflex/img/books/" + rowId + (i + 1) + ".jpg) no-repeat center / cover");
-        // items.eq(i).css("background", "url(../img/books/" + rowId + (i + 1) + ".jpg) no-repeat center / cover");
       }
     }
   }
@@ -115,10 +112,8 @@ $(document).ready(function() {
     let item = topRowFilms.eq(i).children(".top-item");
     if (item.hasClass("film")) {
       topRowFilms.eq(i).children(".top-item").css("background", "url(https://saracollados.github.io/netflex/img/films/" + topRowId + (i + 1) + ".jpg) no-repeat center / cover");
-      // topRowFilms.eq(i).children(".top-item").css("background", "url(../img/films/" + topRowId + (i + 1) + ".jpg) no-repeat center / cover");
     } else if (item.hasClass("book")) {
       topRowFilms.eq(i).children(".top-item").css("background", "url(https://saracollados.github.io/netflex/img/books/" + topRowId + (i + 1) + ".jpg) no-repeat center / cover");
-      // topRowFilms.eq(i).children(".top-item").css("background", "url(../img/books/" + topRowId + (i + 1) + ".jpg) no-repeat center / cover");
     }
   }
 

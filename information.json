@@ -2,7 +2,7 @@
   "FILMS": {
     "COVER": [
       {
-        "COVER": "url(../img/films/newRelease18.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease18.jpg)",
         "TITLE": "La Casa de Papel",
         "YEAR": "2021",
         "AGE": "16",
@@ -17,7 +17,7 @@
     ],
     "TOP": [
       {
-        "COVER": "url(../img/films/newThisWeek1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek1.jpg)",
         "TITLE": "Élite",
         "YEAR": "2022",
         "AGE": "16",
@@ -30,7 +30,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek12.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek12.jpg)",
         "TITLE": "Los Bridgerton",
         "YEAR": "2022",
         "AGE": "16",
@@ -43,7 +43,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize6.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize6.jpg)",
         "TITLE": "Stranger Things",
         "YEAR": "2022",
         "AGE": "16",
@@ -56,7 +56,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek3.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek3.jpg)",
         "TITLE": "Entre dos mundos",
         "YEAR": "2022",
         "AGE": "12",
@@ -69,7 +69,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek4.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek4.jpg)",
         "TITLE": "Furioza",
         "YEAR": "2022",
         "AGE": "16",
@@ -82,7 +82,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease4.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease4.jpg)",
         "TITLE": "Garra",
         "YEAR": "2022",
         "AGE": "12",
@@ -95,7 +95,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek7.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek7.jpg)",
         "TITLE": "Las niñas de cristal",
         "YEAR": "2022",
         "AGE": "16",
@@ -108,7 +108,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease6.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease6.jpg)",
         "TITLE": "Intimidad",
         "YEAR": "2022",
         "AGE": "16",
@@ -121,7 +121,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease14.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease14.jpg)",
         "TITLE": "The Umbrella Academy",
         "YEAR": "2022",
         "AGE": "16",
@@ -134,7 +134,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease1.jpg)",
         "TITLE": "¿Quién es Anna?",
         "YEAR": "2022",
         "AGE": "16",
@@ -149,7 +149,7 @@
     ],
     "NEWRELEASE": [
       {
-        "COVER": "url(../img/films/newRelease1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease1.jpg)",
         "TITLE": "¿Quién es Anna?",
         "YEAR": "2022",
         "AGE": "16",
@@ -162,7 +162,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease2.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease2.jpg)",
         "TITLE": "Ozark",
         "YEAR": "2022",
         "AGE": "16",
@@ -175,7 +175,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease3.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease3.jpg)",
         "TITLE": "800 metros",
         "YEAR": "2022",
         "AGE": "16",
@@ -188,7 +188,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease4.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease4.jpg)",
         "TITLE": "Garra",
         "YEAR": "2022",
         "AGE": "12",
@@ -201,7 +201,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease5.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease5.jpg)",
         "TITLE": "Fórmula 1: la emoción de un Grand Prix",
         "YEAR": "2022",
         "AGE": "12",
@@ -214,7 +214,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease6.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease6.jpg)",
         "TITLE": "Intimidad",
         "YEAR": "2022",
         "AGE": "16",
@@ -227,7 +227,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease7.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease7.jpg)",
         "TITLE": "La asistenta",
         "YEAR": "2021",
         "AGE": "16",
@@ -240,7 +240,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease8.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease8.jpg)",
         "TITLE": "El proyecto Adam",
         "YEAR": "2022",
         "AGE": "12",
@@ -253,7 +253,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease9.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease9.jpg)",
         "TITLE": "Estamos muertos",
         "YEAR": "2022",
         "AGE": "16",
@@ -266,7 +266,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease10.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease10.jpg)",
         "TITLE": "Emily en París",
         "YEAR": "2021",
         "AGE": "16",
@@ -279,7 +279,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease11.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease11.jpg)",
         "TITLE": "11M",
         "YEAR": "2022",
         "AGE": "16",
@@ -292,7 +292,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease12.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease12.jpg)",
         "TITLE": "Arcane: Leage of Legends",
         "YEAR": "2021",
         "AGE": "16",
@@ -305,7 +305,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease13.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease13.jpg)",
         "TITLE": "Snowpiercer",
         "YEAR": "2022",
         "AGE": "16",
@@ -318,7 +318,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease14.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease14.jpg)",
         "TITLE": "The Umbrella Academy",
         "YEAR": "2022",
         "AGE": "16",
@@ -331,7 +331,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease15.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease15.jpg)",
         "TITLE": "El timador de Tinder",
         "YEAR": "2022",
         "AGE": "12",
@@ -344,7 +344,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease16.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease16.jpg)",
         "TITLE": "Soy Georgina",
         "YEAR": "2022",
         "AGE": "7",
@@ -357,7 +357,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease17.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease17.jpg)",
         "TITLE": "Preguntados",
         "YEAR": "2022",
         "AGE": "7",
@@ -370,7 +370,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease18.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease18.jpg)",
         "TITLE": "La Casa de Papel",
         "YEAR": "2021",
         "AGE": "16",
@@ -383,7 +383,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease19.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease19.jpg)",
         "TITLE": "Madres paralelas",
         "YEAR": "2021",
         "AGE": "12",
@@ -396,7 +396,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newRelease20.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newRelease20.jpg)",
         "TITLE": "The Witcher",
         "YEAR": "2021",
         "AGE": "16",
@@ -411,7 +411,7 @@
     ],
     "TRENDNOW": [
       {
-        "COVER": "url(../img/films/trendNow1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow1.jpg)",
         "TITLE": "¿Es una tarta?",
         "YEAR": "2022",
         "AGE": "7",
@@ -424,7 +424,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow2.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow2.jpg)",
         "TITLE": "La verdad duele",
         "YEAR": "2015",
         "AGE": "7",
@@ -437,7 +437,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow3.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow3.jpg)",
         "TITLE": "Soy Georgina",
         "YEAR": "2022",
         "AGE": "7",
@@ -450,7 +450,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow4.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow4.jpg)",
         "TITLE": "Suits",
         "YEAR": "2019",
         "AGE": "12",
@@ -463,7 +463,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow5.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow5.jpg)",
         "TITLE": "Granizo",
         "YEAR": "2022",
         "AGE": "12",
@@ -476,7 +476,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow6.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow6.jpg)",
         "TITLE": "Top boy",
         "YEAR": "2022",
         "AGE": "16",
@@ -489,7 +489,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow7.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow7.jpg)",
         "TITLE": "Lost in space",
         "YEAR": "2021",
         "AGE": "7",
@@ -502,7 +502,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow8.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow8.jpg)",
         "TITLE": "Braking Bad",
         "YEAR": "2013",
         "AGE": "16",
@@ -515,7 +515,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow9.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow9.jpg)",
         "TITLE": "Aquí no hay quien vida",
         "YEAR": "2003",
         "AGE": "16",
@@ -528,7 +528,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow10.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow10.jpg)",
         "TITLE": "El proyecto Adam",
         "YEAR": "2022",
         "AGE": "12",
@@ -541,7 +541,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow11.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow11.jpg)",
         "TITLE": "800 metros",
         "YEAR": "2022",
         "AGE": "16",
@@ -554,7 +554,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow12.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow12.jpg)",
         "TITLE": "Peaky Blinders",
         "YEAR": "2022",
         "AGE": "16",
@@ -567,7 +567,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow13.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow13.jpg)",
         "TITLE": "Black mirror",
         "YEAR": "2019",
         "AGE": "18",
@@ -580,7 +580,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow14.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow14.jpg)",
         "TITLE": "Snowpiercer",
         "YEAR": "2022",
         "AGE": "16",
@@ -593,7 +593,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow15.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow15.jpg)",
         "TITLE": "El timador de Tinder",
         "YEAR": "2022",
         "AGE": "12",
@@ -606,7 +606,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow16.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow16.jpg)",
         "TITLE": "Jimmy Savile",
         "YEAR": "2022",
         "AGE": "18",
@@ -619,7 +619,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow17.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow17.jpg)",
         "TITLE": "El ultimátum",
         "YEAR": "2022",
         "AGE": "12",
@@ -632,7 +632,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow18.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow18.jpg)",
         "TITLE": "The Sinner",
         "YEAR": "2021",
         "AGE": "16",
@@ -645,7 +645,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow19.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow19.jpg)",
         "TITLE": "Regreso al espacio",
         "YEAR": "2022",
         "AGE": "12",
@@ -658,7 +658,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/trendNow20.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/trendNow20.jpg)",
         "TITLE": "Estamos muertos",
         "YEAR": "2022",
         "AGE": "16",
@@ -673,7 +673,7 @@
     ],
     "NEWTHISWEEK": [
       {
-        "COVER": "url(../img/films/newThisWeek1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek1.jpg)",
         "TITLE": "Élite",
         "YEAR": "2022",
         "AGE": "16",
@@ -686,7 +686,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek2.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek2.jpg)",
         "TITLE": "Regreso al espacio",
         "YEAR": "2022",
         "AGE": "12",
@@ -699,7 +699,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek3.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek3.jpg)",
         "TITLE": "Entre dos mundos",
         "YEAR": "2022",
         "AGE": "12",
@@ -712,7 +712,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek4.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek4.jpg)",
         "TITLE": "Furioza",
         "YEAR": "2022",
         "AGE": "16",
@@ -725,7 +725,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek5.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek5.jpg)",
         "TITLE": "Jimmy Savile",
         "YEAR": "2022",
         "AGE": "18",
@@ -738,7 +738,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek6.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek6.jpg)",
         "TITLE": "El ultimátum",
         "YEAR": "2022",
         "AGE": "12",
@@ -751,7 +751,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek7.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek7.jpg)",
         "TITLE": "Las niñas de cristal",
         "YEAR": "2022",
         "AGE": "16",
@@ -764,7 +764,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek8.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek8.jpg)",
         "TITLE": "Metal Lords",
         "YEAR": "2022",
         "AGE": "12",
@@ -777,7 +777,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek9.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek9.jpg)",
         "TITLE": "Mañana",
         "YEAR": "2022",
         "AGE": "16",
@@ -790,7 +790,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek10.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek10.jpg)",
         "TITLE": "Yaksha",
         "YEAR": "2022",
         "AGE": "16",
@@ -803,7 +803,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek11.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek11.jpg)",
         "TITLE": "Propuesta laboral",
         "YEAR": "2022",
         "AGE": "12",
@@ -816,7 +816,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek12.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek12.jpg)",
         "TITLE": "Los Bridgerton",
         "YEAR": "2022",
         "AGE": "16",
@@ -829,7 +829,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek13.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek13.jpg)",
         "TITLE": "Senzo",
         "YEAR": "2022",
         "AGE": "12",
@@ -842,7 +842,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek14.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek14.jpg)",
         "TITLE": "Michela Giraud",
         "YEAR": "2022",
         "AGE": "16",
@@ -855,7 +855,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek15.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek15.jpg)",
         "TITLE": "Pau, la força d'un silenci",
         "YEAR": "2017",
         "AGE": "12",
@@ -868,7 +868,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek16.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek16.jpg)",
         "TITLE": "Roony Chieng",
         "YEAR": "2019",
         "AGE": "12",
@@ -881,7 +881,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek17.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek17.jpg)",
         "TITLE": "Vals",
         "YEAR": "2019",
         "AGE": "16",
@@ -894,7 +894,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek18.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek18.jpg)",
         "TITLE": "Huevos verdes con jamón",
         "YEAR": "2019",
         "AGE": "7",
@@ -907,7 +907,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek19.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek19.jpg)",
         "TITLE": "Tiger & Bunny",
         "YEAR": "2022",
         "AGE": "12",
@@ -920,7 +920,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/newThisWeek20.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/newThisWeek20.jpg)",
         "TITLE": "Adiós amigos",
         "YEAR": "2016",
         "AGE": "16",
@@ -935,7 +935,7 @@
     ],
     "SERIEPRIZE": [
       {
-        "COVER": "url(../img/films/seriePrize1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize1.jpg)",
         "TITLE": "Braking Bad",
         "YEAR": "2013",
         "AGE": "16",
@@ -948,7 +948,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize2.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize2.jpg)",
         "TITLE": "The Office",
         "YEAR": "2012",
         "AGE": "12",
@@ -961,7 +961,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize3.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize3.jpg)",
         "TITLE": "Outlander",
         "YEAR": "2020",
         "AGE": "16",
@@ -974,7 +974,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize4.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize4.jpg)",
         "TITLE": "Peaky Blinders",
         "YEAR": "2022",
         "AGE": "16",
@@ -987,7 +987,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize5.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize5.jpg)",
         "TITLE": "Mr. Robot",
         "YEAR": "2019",
         "AGE": "16",
@@ -1000,7 +1000,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize6.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize6.jpg)",
         "TITLE": "Stranger Things",
         "YEAR": "2022",
         "AGE": "16",
@@ -1013,7 +1013,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize7.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize7.jpg)",
         "TITLE": "Downtown Abbey",
         "YEAR": "2015",
         "AGE": "7",
@@ -1026,7 +1026,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize8.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize8.jpg)",
         "TITLE": "Vikingos",
         "YEAR": "2019",
         "AGE": "16",
@@ -1039,7 +1039,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize9.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize9.jpg)",
         "TITLE": "Cómo defender a un asesino",
         "YEAR": "2020",
         "AGE": "16",
@@ -1052,7 +1052,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize10.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize10.jpg)",
         "TITLE": "La Casa de Papel",
         "YEAR": "2021",
         "AGE": "16",
@@ -1065,7 +1065,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize11.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize11.jpg)",
         "TITLE": "Clickbait",
         "YEAR": "2021",
         "AGE": "16",
@@ -1078,7 +1078,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize12.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize12.jpg)",
         "TITLE": "Gambito de dama",
         "YEAR": "2020",
         "AGE": "16",
@@ -1091,7 +1091,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize13.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize13.jpg)",
         "TITLE": "Sex Education",
         "YEAR": "2020",
         "AGE": "16",
@@ -1104,7 +1104,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize14.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize14.jpg)",
         "TITLE": "Blacklist",
         "YEAR": "2021",
         "AGE": "16",
@@ -1117,7 +1117,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize15.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize15.jpg)",
         "TITLE": "The end of the f***ing world",
         "YEAR": "12019",
         "AGE": "16",
@@ -1130,7 +1130,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize16.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize16.jpg)",
         "TITLE": "Itaewon Class",
         "YEAR": "2020",
         "AGE": "16",
@@ -1143,7 +1143,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize17.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize17.jpg)",
         "TITLE": "House of Cards",
         "YEAR": "2018",
         "AGE": "16",
@@ -1156,7 +1156,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize18.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize18.jpg)",
         "TITLE": "Orange is the new black",
         "YEAR": "2019",
         "AGE": "16",
@@ -1169,7 +1169,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize19.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize19.jpg)",
         "TITLE": "The Crown",
         "YEAR": "2020",
         "AGE": "16",
@@ -1182,7 +1182,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/films/seriePrize20.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/films/seriePrize20.jpg)",
         "TITLE": "Las chicas del cable",
         "YEAR": "2019",
         "AGE": "16",
@@ -1199,7 +1199,7 @@
   "BOOKS": {
     "COVER": [
       {
-        "COVER": "url(../img/books/cover1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/cover1.jpg)",
         "TITLE": "Violeta",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1210,7 +1210,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/cover2.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/cover2.jpg)",
         "TITLE": "Las otras niñas",
         "YEAR": "2022",
         "COINCIDENCE": "98",
@@ -1221,7 +1221,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/cover3.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/cover3.jpg)",
         "TITLE": "El Corresponsal",
         "YEAR": "2022",
         "COINCIDENCE": "96",
@@ -1234,7 +1234,7 @@
     ],
     "TOP": [
       {
-        "COVER": "url(../img/books/top1.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top1.jpg)",
         "TITLE": "Las doce puertas",
         "YEAR": "2019",
         "COINCIDENCE": "87",
@@ -1245,7 +1245,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top2.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top2.jpg)",
         "TITLE": "Últimos días en Berlín",
         "YEAR": "2021",
         "COINCIDENCE": "92",
@@ -1256,7 +1256,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top3.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top3.jpg)",
         "TITLE": "El libro negro de las horas",
         "YEAR": "2022",
         "COINCIDENCE": "94",
@@ -1267,7 +1267,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top4.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top4.jpg)",
         "TITLE": "La Bestia",
         "YEAR": "2021",
         "COINCIDENCE": "98",
@@ -1278,7 +1278,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top5.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top5.jpg)",
         "TITLE": "Violeta",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1289,7 +1289,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top6.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top6.jpg)",
         "TITLE": "De ninguna parte",
         "YEAR": "2021",
         "COINCIDENCE": "90",
@@ -1300,7 +1300,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top7.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top7.jpg)",
         "TITLE": "El italiano",
         "YEAR": "2021",
         "COINCIDENCE": "86",
@@ -1311,7 +1311,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top8.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top8.jpg)",
         "TITLE": "El Juego del Alma",
         "YEAR": "2021",
         "COINCIDENCE": "98",
@@ -1322,7 +1322,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top9.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top9.jpg)",
         "TITLE": "La Reina Roja",
         "YEAR": "2018",
         "AGE": "16",
@@ -1334,7 +1334,7 @@
         "LIKE": "NO"
       },
       {
-        "COVER": "url(../img/books/top10.jpg)",
+        "COVER": "url(https://saracollados.github.io/netflex/img/books/top10.jpg)",
         "TITLE": "Nunca",
         "YEAR": "2021",
         "COINCIDENCE": "97",
@@ -1346,7 +1346,7 @@
       }
     ],
     "NEWRELEASE": [
-      {"COVER": "url(../img/books/newRelease1.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease1.jpg)",
         "TITLE": "El Corresponsal",
         "YEAR": "2022",
         "COINCIDENCE": "96",
@@ -1356,7 +1356,7 @@
         "SYNOPSIS": "El joven periodista Miguel Bravo anhela una vida de aventuras cuando le llega su gran oportunidad: es enviado a Birmania para cubrir la Revuelta Azafrán, liderada por monjes budistas. En medio de un país en convulsión, Bravo se sumerge en la fascinante vida de un grupo de corresponsales internacionales.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease2.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease2.jpg)",
         "TITLE": "El libro negro de las horas",
         "YEAR": "2022",
         "COINCIDENCE": "94",
@@ -1366,7 +1366,7 @@
         "SYNOPSIS": "El exinspector Unai López de Ayala —alias Kraken— recibe una llamada anónima que cambiará lo que cree saber de su pasado familiar: tiene una semana para encontrar el legendario 'Libro Negro de las Horas'.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease3.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease3.jpg)",
         "TITLE": "El mapa de los anhelos",
         "YEAR": "2022",
         "COINCIDENCE": "97",
@@ -1376,7 +1376,7 @@
         "SYNOPSIS": "¿Y si te diesen un mapa para descubrir quién eres? ¿Seguirías la ruta marcada hasta el final? Imagina que estás destinada a salvar a tu hermana, pero al final ella muere y la razón de tu existencia se desvanece. Eso es lo que le ocurre a Grace Peterson, la chica que siempre se ha sentido invisible, la que nunca ha salido de Nebraska, la que colecciona palabras y ve pasar los días refugiada en la monotonía.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease4.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease4.jpg)",
         "TITLE": "No tengas miedo a nada",
         "YEAR": "2022",
         "COINCIDENCE": "86",
@@ -1386,7 +1386,7 @@
         "SYNOPSIS": "ABRE TU MENTE. ENCUENTRA TU PROPÓSITO. CUMPLE TUS SUEÑOS. Sí, es posible transformar nuestra vida para vivirla de forma plena y maravillosa. Hace años, Curro Cañete descubrió que no solo era una posibilidad, sino que ayudar a otros a conseguirlo era su propósito.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease5.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease5.jpg)",
         "TITLE": "Roma soy yo",
         "YEAR": "2022",
         "COINCIDENCE": "86",
@@ -1396,7 +1396,7 @@
         "SYNOPSIS": "Roma, año 77 a.C. El cruel senador Dolabela va a ser juzgado por corrupción, pero ha contratado a los mejores abogados, ha comprado al jurado y, además, es conocido por usar la violencia contra todos los que se enfrentan a él. Nadie se atreve a ser el fiscal, hasta que de pronto, contra todo pronóstico, un joven patricio de tan solo veintitrés años acepta llevar la acusación, defender al pueblo de Roma y desafiar el poder de las élites. El nombre del desconocido abogado es Cayo Julio César.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease6.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease6.jpg)",
         "TITLE": "Adiós, pequeño",
         "YEAR": "2022",
         "COINCIDENCE": "93",
@@ -1406,7 +1406,7 @@
         "SYNOPSIS": "«Mi madre habría sido más feliz si yo no hubiera nacido.» Así arranca el desgarrador testimonio de un escritor enfrentado a la más dura de sus narraciones, la de su propia vida. Asaltado por los recuerdos mientras cuida a su madre enferma, el pasado se le presenta con vacíos que no logra llenar.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease7.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease7.jpg)",
         "TITLE": "Amanda Black",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1416,7 +1416,7 @@
         "SYNOPSIS": "La situación es la siguiente: las calles están sitiadas por una multitud de lo que parecen ser... ¿muertos vivientes? La ciudad ha sido rodeada y nadie puede salir ni entrar de ella. En las noticias y en la radio hablan de un virus, pero yo sé que no ha sido un virus. Ha sido la Campana de Jade.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease8.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease8.jpg)",
         "TITLE": "Las aventuras de Dani y Evan",
         "YEAR": "2022",
         "COINCIDENCE": "84",
@@ -1426,7 +1426,7 @@
         "SYNOPSIS": "¡No te pierdas esta aventura dinosauresca! Un gigantesco depredador ha destruido el embarcadero de Wala wala, y Bizcoché, Dani y Evan se sumergen en las oscuras aguas del Santuario para descubrir qué es.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease9.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease9.jpg)",
         "TITLE": "Las madres",
         "YEAR": "2022",
         "COINCIDENCE": "97",
@@ -1436,7 +1436,7 @@
         "SYNOPSIS": "La inspectora Elena Blanco atraviesa el depósito de la Grúa Municipal Mediodía II de Madrid hasta llegar a una vieja furgoneta que expele un olor putrefacto. Dentro está el cadáver de un hombre atado a una silla, con un burdo costurón que asciende del pubis al abdomen.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease10.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease10.jpg)",
         "TITLE": "Esclava de la libertad",
         "YEAR": "2022",
         "COINCIDENCE": "94",
@@ -1446,7 +1446,7 @@
         "SYNOPSIS": "A la isla caribeña arriba un barco portador de una siniestra carga. Más de setecientas mujeres y niñas secuestradas de su África natal llegan para trabajar, hasta la extenuación, en los campos de caña de azúcar y parir hijos que serán también esclavos. Kaweka es una de ellas, una muchacha que vivirá en primera persona el horror de la esclavitud en la hacienda del cruel marqués de Santadoma.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease11.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease11.jpg)",
         "TITLE": "La faraona oculta",
         "YEAR": "2022",
         "COINCIDENCE": "90",
@@ -1456,7 +1456,7 @@
         "SYNOPSIS": "Un nuevo dios viviente es coronado tras el fallecimiento del gran Amenhotep III. Su hijo Amenofis es ahora faraón del Alto y Bajo Egipto. Pero los tiempos de bonanza y paz están por acabar: renacen las hostilidades con los pueblos vecinos, hasta ahora aliados, pero también entre las dos mujeres que buscan compratir el trono, la cortesana Nefertiti y la princesa de Mitanni Teryshepa.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease12.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease12.jpg)",
         "TITLE": "La reina sola",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1466,7 +1466,7 @@
         "SYNOPSIS": "Constanza, una joven reina recién coronada y sin experiencia de gobierno es abandonada por su marido en los peores momentos de su pequeño reino. Unos nobles hostiles, ansiosos de poder, provocan sangrientas revueltas que amenazan su vida y la de sus hijos. Además, deberá enfrentarse, con la ayuda de unos pocos fieles, a los tres mayores poderes del siglo XIII.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease13.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease13.jpg)",
         "TITLE": "Todos al infierno",
         "YEAR": "2022",
         "COINCIDENCE": "93",
@@ -1476,7 +1476,7 @@
         "SYNOPSIS": "Serafín del Río es un monseñor que pone en juego su cabeza para desmontar una trama de corrupción política de la que él también forma parte.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease14.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease14.jpg)",
         "TITLE": "Las otras niñas",
         "YEAR": "2022",
         "COINCIDENCE": "98",
@@ -1486,7 +1486,7 @@
         "SYNOPSIS": "La inspectora Indira Ramos apura sus últimos días de excedencia en un pequeño municipio de Extremadura. Cuando, después de casi tres años, llega el momento de abandonar su retiro y regresar a su trabajo en Madrid, se ve incapaz de enfrentarse al subinspector Iván Moreno, al que oculta un enorme secreto.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease15.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease15.jpg)",
         "TITLE": "Violeta",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1496,7 +1496,7 @@
         "SYNOPSIS": "Desde 1920 -con la llamada «gripe española»- hasta la pandemia de 2020, la vida de Violeta será mucho más que la historia de un siglo.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease16.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease16.jpg)",
         "TITLE": "El caso de Alaska Sanders",
         "YEAR": "2022",
         "COINCIDENCE": "95",
@@ -1506,7 +1506,7 @@
         "SYNOPSIS": "«Sé lo que has hecho». Este mensaje, encontrado en el bolsillo del pantalón de Alaska Sanders, cuyo cadáver apareció el 3 de abril de 1999 al borde del lago de Mount Pleasant, una pequeña localidad de New Hampshire, es la clave de la nueva y apasionante investigación que, once años después de poner entre rejas a sus presuntos culpables, vuelve a reunir al escritor Marcus Goldman y al sargento Perry Gahalowood.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease17.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease17.jpg)",
         "TITLE": "La ladrona de huesos",
         "YEAR": "2022",
         "COINCIDENCE": "98",
@@ -1516,7 +1516,7 @@
         "SYNOPSIS": "La prepararon para ser la agente perfecta, pero el destino la traicionó con un giro mortal. Manel Loureiro nos atrapa en este apasionante thriller de robos imposibles, reliquias y misterios en el Camino de Santiago.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease18.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease18.jpg)",
         "TITLE": "El viaje de Yaya",
         "YEAR": "2022",
         "COINCIDENCE": "83",
@@ -1526,7 +1526,7 @@
         "SYNOPSIS": "China, 1937. Los japoneses entran en Shanghái y provocan el éxodo de miles de chinos. En medio del caos, dos niños hacen amistad a pesar de tener vidas muy distintas: Yaya es la hija de un comerciante adinerado y Tuduo es un niño de la calle. Estos dos jóvenes héroes recorrerán una China asolada por la guerra para encontrar a los padres de Yaya.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease19.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease19.jpg)",
         "TITLE": "Bajo el paraguas de las estrellas",
         "YEAR": "2022",
         "COINCIDENCE": "82",
@@ -1536,7 +1536,7 @@
         "SYNOPSIS": "Cuando las estrellas comenzaron a caer sobre el planeta, la humanidad quedó diezmada y los supervivientes huyeron bajo tierra. Entonces apareció Dracaena, un tenmaku, capaz de repeler las estrellas extendiendo un manto protector en el cielo.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/newRelease20.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/newRelease20.jpg)",
         "TITLE": "No hay verano sin tí",
         "YEAR": "2022",
         "COINCIDENCE": "92",
@@ -1548,7 +1548,7 @@
       }
     ],
     "SPANISH": [
-      {"COVER": "url(../img/books/spanish1.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish1.jpg)",
         "TITLE": "Aquitania",
         "YEAR": "2020",
         "COINCIDENCE": "96",
@@ -1558,7 +1558,7 @@
         "SYNOPSIS": "1137. El duque de Aquitania—la región más codiciada de Francia—aparece muerto en Compostela. El cuerpo queda de color azul y con la marca del «águila de sangre», una ancestral tortura normanda. Su hija Eleanor decide vengarse y para ello se casa con el hijo del que cree su asesino: Luy VI el Gordo, rey de Francia.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish2.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish2.jpg)",
         "TITLE": "El Corresponsal",
         "YEAR": "2022",
         "COINCIDENCE": "96",
@@ -1568,7 +1568,7 @@
         "SYNOPSIS": "El joven periodista Miguel Bravo anhela una vida de aventuras cuando le llega su gran oportunidad: es enviado a Birmania para cubrir la Revuelta Azafrán, liderada por monjes budistas. En medio de un país en convulsión, Bravo se sumerge en la fascinante vida de un grupo de corresponsales internacionales.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish3.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish3.jpg)",
         "TITLE": "De ninguna parte",
         "YEAR": "2021",
         "COINCIDENCE": "90",
@@ -1578,7 +1578,7 @@
         "SYNOPSIS": "Abir Nasr es un adolescente que presencia, impotente, el asesinato de su familia durante una misión del ejército israelí en el sur de Líbano.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish4.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish4.jpg)",
         "TITLE": "Donde fuimos invencibles",
         "YEAR": "2021",
         "COINCIDENCE": "97",
@@ -1588,7 +1588,7 @@
         "SYNOPSIS": "El verano está terminando y la teniente Valentina Redondo está contando los días para empezar sus vacaciones. Pero algo insólito sucede en el centro mismo del pueblo costero de Suances: el jardinero del antiguo Palacio del Amo ha aparecido muerto en el césped de esa enigmática propiedad.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish5.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish5.jpg)",
         "TITLE": "El alma de las piedras",
         "YEAR": "2011",
         "COINCIDENCE": "91",
@@ -1598,7 +1598,7 @@
         "SYNOPSIS": "Año 824. Tres curiosos personajes hallan una tumba cuyos restos pertenecen a Santiago Apóstol y crean el Iocus Sancti Jacobi para mayor Gloria de Dios. Dos siglos después, una joven noble, Mabilia, descubre de la mano de un cantero una marca en una piedra que conduce hasta La Inventio, un pergamino en el que se cuenta el milagroso hallazgo.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish6.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish6.jpg)",
         "TITLE": "El italiano",
         "YEAR": "2021",
         "COINCIDENCE": "86",
@@ -1608,7 +1608,7 @@
         "SYNOPSIS": "Elena Arbués, una librera de veintisiete años, encuentra una madrugada mientras pasea por la playa a uno de esos buzos, desvanecido entre la arena y el agua. Al socorrerlo, la joven ignora que esa.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish7.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish7.jpg)",
         "TITLE": "El Juego del Alma",
         "YEAR": "2021",
         "COINCIDENCE": "98",
@@ -1618,7 +1618,7 @@
         "SYNOPSIS": "Una chica de quince años aparece crucificada en un suburbio a las afueras. Miren Triggs, periodista de investigación, recibe de manera inesperada un extraño sobre.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish8.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish8.jpg)",
         "TITLE": "El libro negro de las horas",
         "YEAR": "2022",
         "COINCIDENCE": "94",
@@ -1628,7 +1628,7 @@
         "SYNOPSIS": "El exinspector Unai López de Ayala —alias Kraken— recibe una llamada anónima que cambiará lo que cree saber de su pasado familiar: tiene una semana para encontrar el legendario 'Libro Negro de las Horas'.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish9.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish9.jpg)",
         "TITLE": "El sanador de caballos",
         "YEAR": "2010",
         "COINCIDENCE": "86",
@@ -1638,7 +1638,7 @@
         "SYNOPSIS": "La aventura de un veterinario en la Edad Media Durante un ataque sarraceno, Diego de Malagón, hijo de un posadero, es testigo del secuestro de sus hermanas. Consigue huir a Toledo donde conoce a Galib, un veterinario mudéjar de gran prestigio, que le acoge como aprendiz y le muestra el poder y la belleza de la albeitería, la ciencia que estudia la curación de los animales más importantes para los hombres: los caballos.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish10.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish10.jpg)",
         "TITLE": "Esclava de la libertad",
         "YEAR": "2022",
         "COINCIDENCE": "94",
@@ -1648,7 +1648,7 @@
         "SYNOPSIS": "A la isla caribeña arriba un barco portador de una siniestra carga. Más de setecientas mujeres y niñas secuestradas de su África natal llegan para trabajar, hasta la extenuación, en los campos de caña de azúcar y parir hijos que serán también esclavos. Kaweka es una de ellas, una muchacha que vivirá en primera persona el horror de la esclavitud en la hacienda del cruel marqués de Santadoma.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish11.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish11.jpg)",
         "TITLE": "La Bestia",
         "YEAR": "2021",
         "COINCIDENCE": "98",
@@ -1658,7 +1658,7 @@
         "SYNOPSIS": "Corre el año 1834 y Madrid, una pequeña ciudad que trata de abrirse paso más allá de las murallas que la rodean, sufre una terrible epidemia de cólera.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish12.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish12.jpg)",
         "TITLE": "La faraona oculta",
         "YEAR": "2022",
         "COINCIDENCE": "90",
@@ -1668,7 +1668,7 @@
         "SYNOPSIS": "Un nuevo dios viviente es coronado tras el fallecimiento del gran Amenhotep III. Su hijo Amenofis es ahora faraón del Alto y Bajo Egipto. Pero los tiempos de bonanza y paz están por acabar: renacen las hostilidades con los pueblos vecinos, hasta ahora aliados, pero también entre las dos mujeres que buscan compratir el trono, la cortesana Nefertiti y la princesa de Mitanni Teryshepa.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish13.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish13.jpg)",
         "TITLE": "La Hermandad de la Sábana Blanca",
         "YEAR": "2021",
         "COINCIDENCE": "88",
@@ -1678,7 +1678,7 @@
         "SYNOPSIS": "Un incendio en la catedral de Turín, donde se venera la Sábana Santa, y la muerte en él de un hombre al que habían cortado la lengua, son los detonantes de una trepidante investigación policial del Departamento del Arte, capitaneado por el detective Marco Valoni. Junto a la perspicaz y atractiva historiadora Sofia Galloni y una periodista ávida de preguntas, el grupo de Valoni deberá resolver un enigma que arranca de los templarios y llega hasta la actualidad.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish14.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish14.jpg)",
         "TITLE": "La reina sola",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1688,7 +1688,7 @@
         "SYNOPSIS": "Constanza, una joven reina recién coronada y sin experiencia de gobierno es abandonada por su marido en los peores momentos de su pequeño reino. Unos nobles hostiles, ansiosos de poder, provocan sangrientas revueltas que amenazan su vida y la de sus hijos. Además, deberá enfrentarse, con la ayuda de unos pocos fieles, a los tres mayores poderes del siglo XIII.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish15.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish15.jpg)",
         "TITLE": "La Reina Roja",
         "YEAR": "2018",
         "AGE": "16",
@@ -1699,7 +1699,7 @@
         "SYNOPSIS": "Antonia Scott es especial. Muy especial. No es policía ni criminalista. Nunca ha empuñado un arma ni llevado una placa, y, sin embargo, ha resuelto decenas de crímenes.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish16.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish16.jpg)",
         "TITLE": "Las otras niñas",
         "YEAR": "2022",
         "COINCIDENCE": "98",
@@ -1709,7 +1709,7 @@
         "SYNOPSIS": "La inspectora Indira Ramos apura sus últimos días de excedencia en un pequeño municipio de Extremadura. Cuando, después de casi tres años, llega el momento de abandonar su retiro y regresar a su trabajo en Madrid, se ve incapaz de enfrentarse al subinspector Iván Moreno, al que oculta un enorme secreto.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish17.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish17.jpg)",
         "TITLE": "Nunca",
         "YEAR": "2021",
         "COINCIDENCE": "97",
@@ -1719,7 +1719,7 @@
         "SYNOPSIS": "En el desierto del Sáhara, dos agentes de inteligencia siguen la pista a un poderoso grupo terrorista arriesgando sus vidas -y, cuando se enamoran perdidamente, sus carreras- a cada paso.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish18.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish18.jpg)",
         "TITLE": "Roma soy yo",
         "YEAR": "2022",
         "COINCIDENCE": "86",
@@ -1729,7 +1729,7 @@
         "SYNOPSIS": "Roma, año 77 a.C. El cruel senador Dolabela va a ser juzgado por corrupción, pero ha contratado a los mejores abogados, ha comprado al jurado y, además, es conocido por usar la violencia contra todos los que se enfrentan a él. Nadie se atreve a ser el fiscal, hasta que de pronto, contra todo pronóstico, un joven patricio de tan solo veintitrés años acepta llevar la acusación, defender al pueblo de Roma y desafiar el poder de las élites. El nombre del desconocido abogado es Cayo Julio César.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish19.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish19.jpg)",
         "TITLE": "Te daré la tierra",
         "YEAR": "2008",
         "COINCIDENCE": "85",
@@ -1739,7 +1739,7 @@
         "SYNOPSIS": "La Barcelona medieval abriga entre sus murallas dos historias, ambas marcadas por el amor y la ambición: la de un joven campesino que logra cambiar su destino con la única esperanza de prosperar, conseguir la ciudadanía y hacerse así merecedor del amor de una joven de alcurnia, y los amores adúlteros del conde de Barcelona, que sumen a la ciudad en un peligroso conflicto político.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/spanish20.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/spanish20.jpg)",
         "TITLE": "Violeta",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1751,7 +1751,7 @@
       }
     ],
     "THRILLER": [
-      {"COVER": "url(../img/books/thriller1.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller1.jpg)",
         "TITLE": "Las otras niñas",
         "YEAR": "2022",
         "COINCIDENCE": "98",
@@ -1761,7 +1761,7 @@
         "SYNOPSIS": "La inspectora Indira Ramos apura sus últimos días de excedencia en un pequeño municipio de Extremadura. Cuando, después de casi tres años, llega el momento de abandonar su retiro y regresar a su trabajo en Madrid, se ve incapaz de enfrentarse al subinspector Iván Moreno, al que oculta un enorme secreto.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller2.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller2.jpg)",
         "TITLE": "El libro negro de las horas",
         "YEAR": "2022",
         "COINCIDENCE": "94",
@@ -1771,7 +1771,7 @@
         "SYNOPSIS": "El exinspector Unai López de Ayala —alias Kraken— recibe una llamada anónima que cambiará lo que cree saber de su pasado familiar: tiene una semana para encontrar el legendario 'Libro Negro de las Horas'.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller3.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller3.jpg)",
         "TITLE": "La Bestia",
         "YEAR": "2021",
         "COINCIDENCE": "98",
@@ -1781,7 +1781,7 @@
         "SYNOPSIS": "Corre el año 1834 y Madrid, una pequeña ciudad que trata de abrirse paso más allá de las murallas que la rodean, sufre una terrible epidemia de cólera.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller4.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller4.jpg)",
         "TITLE": "La Reina Roja",
         "YEAR": "2018",
         "AGE": "16",
@@ -1792,7 +1792,7 @@
         "SYNOPSIS": "Antonia Scott es especial. Muy especial. No es policía ni criminalista. Nunca ha empuñado un arma ni llevado una placa, y, sin embargo, ha resuelto decenas de crímenes.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller5.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller5.jpg)",
         "TITLE": "Nunca",
         "YEAR": "2021",
         "COINCIDENCE": "97",
@@ -1802,7 +1802,7 @@
         "SYNOPSIS": "En el desierto del Sáhara, dos agentes de inteligencia siguen la pista a un poderoso grupo terrorista arriesgando sus vidas -y, cuando se enamoran perdidamente, sus carreras- a cada paso.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller6.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller6.jpg)",
         "TITLE": "No salgas de noche",
         "YEAR": "2022",
         "COINCIDENCE": "95",
@@ -1812,7 +1812,7 @@
         "SYNOPSIS": "Chloe Davis solo tenía doce años cuando se encontraron evidencias que culpaban a su propio padre del asesinato de seis niñas del pueblo. Ya nunca más sería su protector, sino un asesino en serie.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller7.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller7.jpg)",
         "TITLE": "El caso de Alaska Sanders",
         "YEAR": "2022",
         "COINCIDENCE": "95",
@@ -1822,7 +1822,7 @@
         "SYNOPSIS": "«Sé lo que has hecho». Este mensaje, encontrado en el bolsillo del pantalón de Alaska Sanders, cuyo cadáver apareció el 3 de abril de 1999 al borde del lago de Mount Pleasant, una pequeña localidad de New Hampshire, es la clave de la nueva y apasionante investigación que, once años después de poner entre rejas a sus presuntos culpables, vuelve a reunir al escritor Marcus Goldman y al sargento Perry Gahalowood.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller8.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller8.jpg)",
         "TITLE": "Entre los muertos",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -1832,7 +1832,7 @@
         "SYNOPSIS": "Hay muertos que nunca descansan, y tal vez no deban hacerlo hasta que se les haga justicia. Nadie lo sabe mejor que Nerea Arruti, agente de la Ertzaintza en Illumbe, una mujer solitaria que arrastra también sus propios cadáveres y fantasmas del pasado.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller9.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller9.jpg)",
         "TITLE": "Dad y se os dará",
         "YEAR": "2022",
         "COINCIDENCE": "99",
@@ -1842,7 +1842,7 @@
         "SYNOPSIS": "¿Qué papel puede o debe jugar la lealtad en la vida de un inspector de policía? Es una pregunta que el comisario Brunetti debe enfrentar y, en última instancia, responder en este caso cuando la distinguida Elisabetta Foscarini, una conocida de la infancia, le pide un favor.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller10.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller10.jpg)",
         "TITLE": "Luz perdida",
         "YEAR": "2022",
         "COINCIDENCE": "96",
@@ -1852,7 +1852,7 @@
         "SYNOPSIS": "Harto de la hipocresía de la policía, Harry Bosch entrega la placa y se ve obligado a buscar una nueva forma de vida. Pero la jubilación no le conviene. Siempre se ha consagrado a la justicia y sigue queriendo proteger -o vengar- a aquellos a los que la ley ha fallado.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller11.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller11.jpg)",
         "TITLE": "Sangre helada",
         "YEAR": "2022",
         "COINCIDENCE": "87",
@@ -1862,7 +1862,7 @@
         "SYNOPSIS": "La maleta estaba muy oxidada y Erika Foster necesitó de varios intentos para poder abrirla, pero finalmente cedió cuando tiró fuerte de la cremallera. Nada podría haberla preparado para lo que encontraría dentro... Cuando una maleta estropeada que contiene el cuerpo desmembrado de un joven es hallada a orillas del río Támesis, la detective Erika Foster queda sorprendida. Pero no es la primera vez que ve un asesinato tan brutal...",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller12.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller12.jpg)",
         "TITLE": "Cauces de maldad",
         "YEAR": "2010",
         "COINCIDENCE": "94",
@@ -1872,7 +1872,7 @@
         "SYNOPSIS": "Harry Bosch investiga la muerte del ex profiler del FBI Terry McCaleb, que muchos lectores de Connelly recordarán como el héroe de su novela Deuda de sangre, llevada al cine con Clint Eastwood en el papel principal. Sus indagaciones le llevan a sospechar de Robert Backus, conocido como el Poeta, a quien se daba por muerto. Decidirá entonces pedir la ayuda de la agente del FBI Rachel Walling, encargada en su día de la investigación de los crímenes cometidos por Backus...",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller13.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller13.jpg)",
         "TITLE": "Último recurso",
         "YEAR": "2022",
         "COINCIDENCE": "98",
@@ -1882,7 +1882,7 @@
         "SYNOPSIS": "Después de tres años retirado, Harry Bosch regresa a un Departamento de Policía de Los Ángeles muy distinto. Un nuevo jefe ha llegado para hacer limpieza. Harry es asignado a la Unidad de Casos Abiertos con su antigua compañera, Kizmin Rider.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller14.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller14.jpg)",
         "TITLE": "Ladrona de huesos",
         "YEAR": "2022",
         "COINCIDENCE": "92",
@@ -1892,7 +1892,7 @@
         "SYNOPSIS": "La prepararon para ser la agente perfecta, pero el destino la traicionó con un giro mortal. Manel Loureiro nos atrapa en este apasionante thriller de robos imposibles, reliquias y misterios en el Camino de Santiago.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller15.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller15.jpg)",
         "TITLE": "El mentiroso",
         "YEAR": "2020",
         "COINCIDENCE": "99",
@@ -1902,7 +1902,7 @@
         "SYNOPSIS": "El protagonista despierta en una fábrica abandonada junto al cadáver de un hombre desconocido y una piedra con restos de sangre. Cuando huye, decide tratar de reconstruir él mismo los hechos. Sin embargo, tiene un problema: no recuerda apenas nada de lo ocurrido en las últimas cuarenta y ocho horas. Y lo poco que sí sabe es mejor no contárselo a nadie.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller16.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller16.jpg)",
         "TITLE": "La verdad sobre el caso Harry Quebert",
         "YEAR": "2013",
         "COINCIDENCE": "97",
@@ -1912,7 +1912,7 @@
         "SYNOPSIS": "En 2008, Marcus Goldman, un joven escritor, visita a su mentor -Harry Quebert, autor de una aclamada novela- y descubre que éste tuvo una relación secreta con Nola Kellergan. Poco después, Harry es arrestado y acusado de asesinato al encontrarse el cadáver de Nola enterrado en su jardín.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller17.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller17.jpg)",
         "TITLE": "Ojos de agua",
         "YEAR": "2007",
         "COINCIDENCE": "90",
@@ -1922,7 +1922,7 @@
         "SYNOPSIS": "En una casa cercana a la playa, en la costa gallega, se descubre el cadáver de un joven saxofonista que sufrió una de las torturas más crueles que se recuerdan. Les asignan el caso al inspector Leo Caldas, un hombre solitario y nocturno, de buen paladar para los vinos y mejor oído para el jazz, y a su ayudante Rafael Estévez, un llano aragonés perdido entre gallegos.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller18.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller18.jpg)",
         "TITLE": "El paciente",
         "YEAR": "2021",
         "COINCIDENCE": "96",
@@ -1932,7 +1932,7 @@
         "SYNOPSIS": "El prestigioso neurocirujano David Evans se enfrenta a una terrible encrucijada: si su próximo paciente sale vivo de la mesa de operaciones, su pequeña hija, Julia, morirá a manos de un psicópata. Para el doctor Evans se inicia una desesperada cuenta atrás cuando descubre que el paciente que debe morir para que su hija viva no es otro que el presidente de Estados Unidos.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller19.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller19.jpg)",
         "TITLE": "El mentalista",
         "YEAR": "2022",
         "COINCIDENCE": "93",
@@ -1942,7 +1942,7 @@
         "SYNOPSIS": "En un parque de atracciones a las afueras de Estocolmo aparece el cuerpo de una joven asesinada de forma macabra: atravesada por múltiples espadas dentro de una caja. La agente de policía Mina Dabiri, reservada y metódica, forma parte del equipo especial de investigación que se hace cargo del caso.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/thriller20.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/thriller20.jpg)",
         "TITLE": "Donde fuimos invencibles",
         "YEAR": "2021",
         "COINCIDENCE": "97",
@@ -1954,7 +1954,7 @@
       }
     ],
     "HISTORICAL": [
-      {"COVER": "url(../img/books/historical1.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical1.jpg)",
         "TITLE": "Las doce puertas",
         "YEAR": "2019",
         "COINCIDENCE": "87",
@@ -1964,7 +1964,7 @@
         "SYNOPSIS": "Corre el año 1834 y Madrid, una pequeña ciudad que trata de abrirse paso más allá de las murallas que la rodean, sufre una terrible epidemia de cólera.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical2.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical2.jpg)",
         "TITLE": "Últimos días en Berlín",
         "YEAR": "2021",
         "COINCIDENCE": "92",
@@ -1974,7 +1974,7 @@
         "SYNOPSIS": "Cuando Yuri Santacruz asistió al nombramiento como canciller de Adolf Hitler, no podía imaginar lo mucho que cambiaría su vida en Berlín.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical3.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical3.jpg)",
         "TITLE": "Roma soy yo",
         "YEAR": "2022",
         "COINCIDENCE": "86",
@@ -1984,7 +1984,7 @@
         "SYNOPSIS": "Roma, año 77 a.C. El cruel senador Dolabela va a ser juzgado por corrupción, pero ha contratado a los mejores abogados, ha comprado al jurado y, además, es conocido por usar la violencia contra todos los que se enfrentan a él. Nadie se atreve a ser el fiscal, hasta que de pronto, contra todo pronóstico, un joven patricio de tan solo veintitrés años acepta llevar la acusación, defender al pueblo de Roma y desafiar el poder de las élites. El nombre del desconocido abogado es Cayo Julio César.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical4.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical4.jpg)",
         "TITLE": "La faraona oculta",
         "YEAR": "2022",
         "COINCIDENCE": "90",
@@ -1994,7 +1994,7 @@
         "SYNOPSIS": "Un nuevo dios viviente es coronado tras el fallecimiento del gran Amenhotep III. Su hijo Amenofis es ahora faraón del Alto y Bajo Egipto. Pero los tiempos de bonanza y paz están por acabar: renacen las hostilidades con los pueblos vecinos, hasta ahora aliados, pero también entre las dos mujeres que buscan compratir el trono, la cortesana Nefertiti y la princesa de Mitanni Teryshepa.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical5.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical5.jpg)",
         "TITLE": "Esclava de la libertad",
         "YEAR": "2022",
         "COINCIDENCE": "94",
@@ -2004,7 +2004,7 @@
         "SYNOPSIS": "A la isla caribeña arriba un barco portador de una siniestra carga. Más de setecientas mujeres y niñas secuestradas de su África natal llegan para trabajar, hasta la extenuación, en los campos de caña de azúcar y parir hijos que serán también esclavos. Kaweka es una de ellas, una muchacha que vivirá en primera persona el horror de la esclavitud en la hacienda del cruel marqués de Santadoma.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical6.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical6.jpg)",
         "TITLE": "Te daré la tierra",
         "YEAR": "2008",
         "COINCIDENCE": "85",
@@ -2014,7 +2014,7 @@
         "SYNOPSIS": "La Barcelona medieval abriga entre sus murallas dos historias, ambas marcadas por el amor y la ambición: la de un joven campesino que logra cambiar su destino con la única esperanza de prosperar, conseguir la ciudadanía y hacerse así merecedor del amor de una joven de alcurnia, y los amores adúlteros del conde de Barcelona, que sumen a la ciudad en un peligroso conflicto político.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical7.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical7.jpg)",
         "TITLE": "La reina sola",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -2024,7 +2024,7 @@
         "SYNOPSIS": "Constanza, una joven reina recién coronada y sin experiencia de gobierno es abandonada por su marido en los peores momentos de su pequeño reino. Unos nobles hostiles, ansiosos de poder, provocan sangrientas revueltas que amenazan su vida y la de sus hijos. Además, deberá enfrentarse, con la ayuda de unos pocos fieles, a los tres mayores poderes del siglo XIII.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical8.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical8.jpg)",
         "TITLE": "Los Borgia",
         "YEAR": "2003",
         "COINCIDENCE": "87",
@@ -2034,7 +2034,7 @@
         "SYNOPSIS": "El retrato fascinante de una familia cuya ambición y sed de poder les llevaría a la cima del mundo, y la crónica del alto precio que pagaron por ello. Puzo nos conmueve con unos personajes crueles y cautivadores, víctimas de sus feroces instintos.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical9.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical9.jpg)",
         "TITLE": "El alma de las piedras",
         "YEAR": "2011",
         "COINCIDENCE": "91",
@@ -2044,7 +2044,7 @@
         "SYNOPSIS": "Año 824. Tres curiosos personajes hallan una tumba cuyos restos pertenecen a Santiago Apóstol y crean el Iocus Sancti Jacobi para mayor Gloria de Dios. Dos siglos después, una joven noble, Mabilia, descubre de la mano de un cantero una marca en una piedra que conduce hasta La Inventio, un pergamino en el que se cuenta el milagroso hallazgo.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical10.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical10.jpg)",
         "TITLE": "El sanador de caballos",
         "YEAR": "2010",
         "COINCIDENCE": "86",
@@ -2054,7 +2054,7 @@
         "SYNOPSIS": "La aventura de un veterinario en la Edad Media Durante un ataque sarraceno, Diego de Malagón, hijo de un posadero, es testigo del secuestro de sus hermanas. Consigue huir a Toledo donde conoce a Galib, un veterinario mudéjar de gran prestigio, que le acoge como aprendiz y le muestra el poder y la belleza de la albeitería, la ciencia que estudia la curación de los animales más importantes para los hombres: los caballos.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical11.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical11.jpg)",
         "TITLE": "La Hermandad de la Sábana Blanca",
         "YEAR": "2021",
         "COINCIDENCE": "88",
@@ -2064,7 +2064,7 @@
         "SYNOPSIS": "Un incendio en la catedral de Turín, donde se venera la Sábana Santa, y la muerte en él de un hombre al que habían cortado la lengua, son los detonantes de una trepidante investigación policial del Departamento del Arte, capitaneado por el detective Marco Valoni. Junto a la perspicaz y atractiva historiadora Sofia Galloni y una periodista ávida de preguntas, el grupo de Valoni deberá resolver un enigma que arranca de los templarios y llega hasta la actualidad.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical12.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical12.jpg)",
         "TITLE": "Los pilares de la tierra",
         "YEAR": "2010",
         "COINCIDENCE": "78",
@@ -2074,7 +2074,7 @@
         "SYNOPSIS": "El amor y la muerte se entrecruzan vibrantemente en este magistral tapiz cuyo centro es la construcción de una catedral gótica. La historia se inicia con el ahorcamiento público de un inocente y finaliza con la humillación de un rey.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical13.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical13.jpg)",
         "TITLE": "Aquitania",
         "YEAR": "2020",
         "COINCIDENCE": "96",
@@ -2084,7 +2084,7 @@
         "SYNOPSIS": "1137. El duque de Aquitania—la región más codiciada de Francia—aparece muerto en Compostela. El cuerpo queda de color azul y con la marca del «águila de sangre», una ancestral tortura normanda. Su hija Eleanor decide vengarse y para ello se casa con el hijo del que cree su asesino: Luy VI el Gordo, rey de Francia.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical14.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical14.jpg)",
         "TITLE": "Quattrocento",
         "YEAR": "2007",
         "COINCIDENCE": "87",
@@ -2094,7 +2094,7 @@
         "SYNOPSIS": "En la Florencia del siglo XV, la de Botticelli y Leonardo, se está preparando una conspiración política y religiosa que podría cambiar la Historia del Renacimiento italiano: la que instigaron los Pazzi y el papa Sixto IV contra el poder de los Médicis.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical15.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical15.jpg)",
         "TITLE": "La adivina de Roma",
         "YEAR": "2007",
         "COINCIDENCE": "91",
@@ -2104,7 +2104,7 @@
         "SYNOPSIS": "El Imperio se tambalea bajo la presión de la guerra civil entre Julio César y Pompeyo, mientras el detective Gordiano investiga el asesinato de la joven y hermosa adivina Casandra. Gordiano descubrirá una conspiración en la que están implicadas algunas de las damas más poderosas de la ciudad.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical16.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical16.jpg)",
         "TITLE": "La catedral del mar",
         "YEAR": "2016",
         "COINCIDENCE": "90",
@@ -2114,7 +2114,7 @@
         "SYNOPSIS": "Siglo XIV. La ciudad de Barcelona se encuentra en su momento de mayor prosperidad; ha crecido hacia la Ribera, el humilde barrio de los pescadores, cuyos habitantes deciden construir, con el dinero de unos y el esfuerzo de otros, el mayor templo mariano jamás conocido: Santa María de la Mar.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical17.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical17.jpg)",
         "TITLE": "Las soledades del inca",
         "YEAR": "2022",
         "COINCIDENCE": "92",
@@ -2124,7 +2124,7 @@
         "SYNOPSIS": "Partiendo de una lectura minuciosa de la crónica de Indias que el Inca Garcilaso dedica a la expedición de Hernando de Soto por tierras de la Florida, esta espléndida novela histórica recrea el que pudo ser el último encuentro entre Garcilaso y uno de los supervivientes de aquella expedición, el capitán Gonzalo Silvestre.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical18.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical18.jpg)",
         "TITLE": "La gobernadora",
         "YEAR": "2022",
         "COINCIDENCE": "88",
@@ -2134,7 +2134,7 @@
         "SYNOPSIS": "Beatriz de Bobadilla y Ulloa (1462-1504) fue una de las mujeres más influyentes de su tiempo y, sin embargo, hoy es una gran olvidada. Amante de Fernando el Católico y Cristóbal Colón, llegó a ser gobernadora de las islas de La Gomera y El Hierro.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical19.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical19.jpg)",
         "TITLE": "El alma de la ciudad",
         "YEAR": "2007",
         "COINCIDENCE": "94",
@@ -2144,7 +2144,7 @@
         "SYNOPSIS": "En plena Edad Media, la Reconquista avanza, a pesar de la fuerza del imperio Almohade. El rey Alfonso VIII funda, en un paraje idílico de los amplios territorios de la Trasierra, la populosa ciudad de Ambrosía (nombre griego que sonaba a pagano en la Edad Media y que se transformó en Plasencia, que significa lugar placentero para vivir).",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/historical20.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/historical20.jpg)",
         "TITLE": "El alano",
         "YEAR": "2020",
         "COINCIDENCE": "91",
@@ -2156,7 +2156,7 @@
       }
     ],
     "SCIENCEFICTION": [
-      {"COVER": "url(../img/books/scienceFiction1.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction1.jpg)",
         "TITLE": "El problema de los tres cuerpos",
         "YEAR": "2016",
         "COINCIDENCE": "95",
@@ -2166,7 +2166,7 @@
         "SYNOPSIS": "Su autor, Cixin Liu, ha sido considerado el gran descubrimiento del género y es capaz de vender cuatro millones de ejemplares solamente en China y de hacerse con prescriptores de la talla de Barack Obama, quien seleccionó El problema de los tres cuerpos como una de sus lecturas navideñas de 2015, y Mark Zuckerberg, que lo convirtió en la primera novela de su club de lectura.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction2.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction2.jpg)",
         "TITLE": "Carbono modificado",
         "YEAR": "2020",
         "COINCIDENCE": "84",
@@ -2176,7 +2176,7 @@
         "SYNOPSIS": "Takeshi Kovacs, mercenario y antiguo emisario colonial, había sido juzgado, condenado y almacenado. Pero lo transmiten a la Tierra y lo reaniman en una funda de policía a instancias de un millonario... que le pide que investigue su reciente asesinato. En un futuro en el que se ha vencido a la muerte, el crimen toma derroteros insospechados.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction3.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction3.jpg)",
         "TITLE": "Frontera oscura",
         "YEAR": "2020",
         "COINCIDENCE": "78",
@@ -2186,7 +2186,7 @@
         "SYNOPSIS": "En el año 2560 la humanidad ha logrado extenderse por unos ocho mil planetas gracias a los motores anagravónicos que permiten los saltos Inspacio-Expacio. La capitana Florence Schiaparelli, conocida en la Flota Federal como Florence Media Vida, y la tripulación de la Banshee tienen como misión obtener todos los datos posibles del agujero negro al que ella misma ha bautizado como el Ojo de Dios.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction4.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction4.jpg)",
         "TITLE": "Metro 2035",
         "YEAR": "2019",
         "COINCIDENCE": "81",
@@ -2196,7 +2196,7 @@
         "SYNOPSIS": "Año 2035. Tras la devastadora guerra nuclear que destruyó la Tierra, la gente ha erigido una nueva civilización en las profundidades del metro de Moscú. Pero la aparente seguridad de las estaciones del metro esconde algo. Dos años después de que Artyom salvara a la población del metro de una catástrofe, los conflictos ideológicos están a punto de estallar. La única salvación parece pasar por una vuelta a la superficie.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction5.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction5.jpg)",
         "TITLE": "Cita con Rama",
         "YEAR": "2015",
         "COINCIDENCE": "79",
@@ -2206,7 +2206,7 @@
         "SYNOPSIS": "Después del impacto de un enorme asteroide que destruye completamente Padua y Verona, se crea en la Tierra un sistema para detectar la trayectoria de cualquier objeto que aparezca cerca de nuestro planeta. Gracias a esta predicción, se descubre un extraño asteroide que gira a una velocidad increíble, Rama, que, según todos los estudios, no volverá a pasar jamás por el Sistema Solar.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction6.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction6.jpg)",
         "TITLE": "La guerra interminable",
         "YEAR": "2019",
         "COINCIDENCE": "80",
@@ -2216,7 +2216,7 @@
         "SYNOPSIS": "Iniciada en 1997, la guerra con los taurinos dura desde hace siglos. Como pasan de un mundo a otro a velocidades superiores a la luz, las tropas de la guerra interminable envejecen solo unos pocos días, mientras que en la Tierra pasan los años y el planeta se vuelve cada vez más irreconocible.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction7.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction7.jpg)",
         "TITLE": "Dune",
         "YEAR": "2021",
         "COINCIDENCE": "89",
@@ -2226,7 +2226,7 @@
         "SYNOPSIS": "En el desértico planeta Arrakis, el agua es el bien más preciado y llorar a los muertos, el símbolo de máxima prodigalidad. Pero algo hace de Arrakis una pieza estratégica para los intereses del Emperador, las Grandes Casas y la Cofradía, los tres grandes poderes de la galaxia. Arrakis es el único origen conocido de la melange, preciosa especia y uno de los bienes más codiciados del universo.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction8.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction8.jpg)",
         "TITLE": "Proyecto Hail Mary",
         "YEAR": "2021",
         "COINCIDENCE": "87",
@@ -2236,7 +2236,7 @@
         "SYNOPSIS": "Ryland Grace es el único superviviente en una misión desesperada. Es la última oportunidad y, si fracasa, la humanidad y la Tierra misma perecerán. Claro que, de momento, él no lo sabe. Ni siquiera puede recordar su propio nombre, y mucho menos la naturaleza de su misión o cómo llevarla a cabo.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction9.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction9.jpg)",
         "TITLE": "Flores para Algernon",
         "YEAR": "2019",
         "COINCIDENCE": "88",
@@ -2246,7 +2246,7 @@
         "SYNOPSIS": "Charlie Gordon está a punto de iniciar un viaje sin precedentes. Nacido con un cociente intelectual anormalmente bajo, lo han elegido como perfecto sujeto de pruebas para una cirugía experimental que, de funcionar, aumentará su inteligencia. El método ya ha dado un resultado espectacular al ser aplicado a un ratón de laboratorio llamado Algernon.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction10.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction10.jpg)",
         "TITLE": "Trilogía de la Fundación",
         "YEAR": "2010",
         "COINCIDENCE": "93",
@@ -2256,7 +2256,7 @@
         "SYNOPSIS": "La «Trilogía de la Fundación» está considerada la mejor serie de la ciencia ficción universal. Como tal, fue galardonada en 1966 con un premio Hugo. El hombre se ha dispersado por toda la galaxia. La capital del Imperio es Trántor, nido de intrigas y corrupción. Gracias a su ciencia, fundada en el estudio matemático de los hechos históricos y el comportamiento de las masas, el psicohistoriador Hari Seldon prevé la caída del Imperio y el retorno a la barbarie durante varios milenios.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction11.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction11.jpg)",
         "TITLE": "Guerra mundial Z",
         "YEAR": "2015",
         "COINCIDENCE": "94",
@@ -2266,7 +2266,7 @@
         "SYNOPSIS": "Sobrevivimos al apocalipsis zombi, sin embargo ¿cuántos de nosotros todavía viven atormentados por los recuerdos de estos tiempos terribles? Hemos derrotado a los muertos vivientes, pero ¿a que precio? ¿Es solo una victoria temporal? ¿Sigue la especie en peligro de extinción?",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction12.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction12.jpg)",
         "TITLE": "Congreso de futurología",
         "YEAR": "2014",
         "COINCIDENCE": "86",
@@ -2276,7 +2276,7 @@
         "SYNOPSIS": "Stanislaw Lem hace un magistral retrato de la aspiración al bienestar del hombre contemporáneo sirviéndose de la ironía y del humor. Tras un período de hibernación, Tichy es reanimado en el año 2039 y encuentra un mundo en el que impera la paz y reina un bienestar general.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction13.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction13.jpg)",
         "TITLE": "Neuromante",
         "YEAR": "2021",
         "COINCIDENCE": "79",
@@ -2286,7 +2286,7 @@
         "SYNOPSIS": "Un futuro invadido por microprocesadores, en el que la información es la materia prima. Vaqueros como Henry Dorrett Case se ganan la vida hurtando información, traspasando defensas electrónicas, bloques tangibles y luminosos, como rascacielos geométricos.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction14.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction14.jpg)",
         "TITLE": "Blade Runner",
         "YEAR": "2012",
         "COINCIDENCE": "97",
@@ -2296,7 +2296,7 @@
         "SYNOPSIS": "Tras la guerra nuclear, la Tierra ha quedado sometida bajo una gran nube de polvo radioactivo. La gente ha emigrado a otros planetas del sistema y se ha llevado a androides que les asisten. Algunos de estos han escapado de la servidumbre y han vuelto ilegalmente a la Tierra. Y Rick Deckard, cazador de bonifi caciones, es uno de los encargados de acabar con ellos.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction15.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction15.jpg)",
         "TITLE": "El último hombre",
         "YEAR": "2022",
         "COINCIDENCE": "89",
@@ -2306,7 +2306,7 @@
         "SYNOPSIS": "Europa, siglo XXI. Una misteriosa enfermedad se expande rápidamente por todo el mundo. Se trata de la mayor pandemia nunca conocida.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction16.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction16.jpg)",
         "TITLE": "Crónicas marcianas",
         "YEAR": "2001",
         "COINCIDENCE": "92",
@@ -2316,7 +2316,7 @@
         "SYNOPSIS": "Esta colección de relatos recoge la crónica de la colonización de Marte por parte de una humanidad que huye de un mundo al borde de la destrucción. Los colonos llevan consigo sus deseos más íntimos y el sueño de reproducir en el Planeta Rojo una civilización de perritos calientes, cómodos sofás y limonada en el porche al atardecer.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction17.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction17.jpg)",
         "TITLE": "Fahrenheit 451",
         "YEAR": "2022",
         "COINCIDENCE": "95",
@@ -2326,7 +2326,7 @@
         "SYNOPSIS": "Un clásico de la literatura. Fahrenheit 451: la temperatura a la que el papel se enciende y arde. Guy Montag es un bombero y el trabajo de un bombero es quemar libros, que están prohibidos porque son causa de discordia y sufrimiento.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction18.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction18.jpg)",
         "TITLE": "Soy leyenda",
         "YEAR": "2003",
         "COINCIDENCE": "96",
@@ -2336,7 +2336,7 @@
         "SYNOPSIS": "Robert Neville es el único superviviente de una guerra bacteriológica que ha asolado el planeta y convertido al resto de la humanidad en vampiros. Su vida se ha reducido a asesinar el máximo número posible de estos seres sanguinarios durante el día, y a soportar su asedio cada noche.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction19.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction19.jpg)",
         "TITLE": "Wyrms",
         "YEAR": "2007",
         "COINCIDENCE": "78",
@@ -2346,7 +2346,7 @@
         "SYNOPSIS": "342 Heptarcas han gobernado el remoto reino de un remoto planeta. En los pasillos del Palacio Real, los Vigilantes religiosos susurran una profecía: el séptimo séptimo séptimo Heptarca -el 343 gobernante- será Kristos, y vendrá a destruir el mundo, o a salvarlo.",
         "LIKE": "NO"
       },
-      {"COVER": "url(../img/books/scienceFiction20.jpg)",
+      {"COVER": "url(https://saracollados.github.io/netflex/img/books/scienceFiction20.jpg)",
         "TITLE": "Los propios dioses",
         "YEAR": "2006",
         "COINCIDENCE": "77",
