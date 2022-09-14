@@ -9,7 +9,7 @@ https://saracollados.github.io/netflex/index.html
 
 ### Capturas
 #### Escritorio
-<img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/login-desktop.JPG" width="360" height="200" /> <img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/films-desktop.JPG" width="360" height="200" /> <img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/books-desktop.JPG" width="360" height="200" />
+<img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/login-desktop.JPG" width="380" height="200" /> <img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/films-desktop.JPG" width="380" height="200" /> <img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/books-desktop.JPG" width="380" height="200" />
 
 #### Móvil
 <img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/login-mobile.JPG" width="200" height="360" /> <img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/films-mobile.JPG" width="200" height="360" /> <img src="https://github.com/saracollados/netflex/blob/main/img/readme-img/books-mobile.JPG" width="200" height="360" />
