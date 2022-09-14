@@ -5,7 +5,8 @@ $(document).ready(function() {
     $.ajax({
         'async': false,
         'global': false,
-        'url': "https://github.com/saracollados/netflex/blob/main/information.json",
+        'url': "https://saracollados.github.io/netflex//information.json",
+        // 'url': "https://github.com/saracollados/netflex/blob/main/information.json",
         'dataType': "json",
         'success': function (data) {
             json = data;
